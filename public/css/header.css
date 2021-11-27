@@ -1,0 +1,28 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  background: rgba(0, 0, 0, 0.5);
+}
+header h1 {
+  font: 2em "Fira Sans", sans-serif;
+}
+header ul {
+  margin-left: auto;
+  display: flex;
+  height: 100%;
+}
+header li {
+  list-style-type: none;
+  width: 100px;
+}
+header li:hover {
+  background: var(--grey);
+}
+header a {
+  display: block;
+  text-align: center;
+  height: 100%;
+  line-height: 200%;
+  text-decoration: none;
+}

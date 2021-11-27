@@ -1,24 +1,19 @@
 html {
-
+  /* var */
+  --white: #cccccc;
+  --dark: #171616;
+  --grey: #1f2020;
 }
 * {
   padding: 0;
   margin: 0;
-  color: #cccccc;
+  color: var(--white);
   font-family: "Helvetica Neue",Arial,sans-serif;
 }
 html, body {
   width: 100%;
   height: 100%;
-  background: #171616;
-}
-
-header {
-  padding: 5px;
-  background: rgba(15, 15, 15, 0.80);
-}
-h1 {
-  font: 2em "Fira Sans", sans-serif;
+  background: var(--dark);
 }
 
 main {
@@ -26,8 +21,8 @@ main {
   width: 75%;
   min-width: 75%;
   max-width: 75%;
-  min-height: 90%;
-  background: #1f2020;
+  min-height: 80%;
+  background: var(--grey);
   transition: 0.2s;
 }
 
