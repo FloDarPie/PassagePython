@@ -3,6 +3,7 @@ html {
   --white: #cccccc;
   --dark: #171616;
   --grey: #1f2020;
+  --colorfull: linear-gradient(90deg, rgba(131,10,10,1) 0%, rgba(218,84,24,1) 41%, rgba(177,161,20,1) 100%);
 }
 * {
   padding: 0;
@@ -24,6 +25,19 @@ main {
   min-height: 80%;
   background: var(--grey);
   transition: 0.2s;
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+}
+.decoration {
+  display: block;
+  background: var(--colorfull);
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 5px;
+  border-radius: 10px;
 }
 
 @media screen and (max-width: 900px) {
