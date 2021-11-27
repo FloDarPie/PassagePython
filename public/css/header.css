@@ -19,14 +19,13 @@ header ul {
 }
 header li {
   list-style-type: none;
-  border: 2px solid transparent;
+  /* border: 2px solid transparent; */
   width: 100px;
   transition: 0.2s;
 }
 header li:hover {
-  border-image: var(--colorfull) 10;
-
-
+  /* border-image: var(--colorfull) 10; */
+  background: var(--grey);
 }
 header ul a {
   display: block;

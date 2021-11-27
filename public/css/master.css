@@ -24,7 +24,7 @@ main {
   max-width: 75%;
   min-height: 80%;
   background: var(--grey);
-  transition: 0.2s;
+  transition: 0.5s;
 }
 h1 {
   text-align: center;
