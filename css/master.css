@@ -26,7 +26,6 @@ main {
   min-width: 75%;
   max-width: 75%;
   min-height: 80%;
-  /* background: var(--grey); */
   transition: 0.5s;
 }
 h1 {

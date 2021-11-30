@@ -1,13 +1,15 @@
 header {
   display: flex;
   justify-content: space-between;
-  padding: 5px;
   background: var(--dark);
 }
 header h1 {
-  padding: 0;
-  padding-left: 5px;
+  padding: 5px 15px;
   font: 2em "Fira Sans", sans-serif;
+  border-bottom: 2px solid transparent;
+}
+header h1:hover {
+  border-image: var(--colorfull) 10;
 }
 header ul {
   margin-left: auto;
@@ -15,12 +17,12 @@ header ul {
   height: 100%;
 }
 header li {
-  /* border: 2px solid transparent; */
+  border-top: 2px solid transparent;
   width: 100px;
   transition: 0.2s;
 }
 header li:hover {
-  /* border-image: var(--colorfull) 10; */
+  border-image: var(--colorfull) 10;
   background: var(--grey);
 }
 header ul a {
