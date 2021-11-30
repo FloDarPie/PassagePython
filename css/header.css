@@ -9,16 +9,12 @@ header h1 {
   padding-left: 5px;
   font: 2em "Fira Sans", sans-serif;
 }
-header h1 a {
-  text-decoration: none;
-}
 header ul {
   margin-left: auto;
   display: flex;
   height: 100%;
 }
 header li {
-  list-style-type: none;
   /* border: 2px solid transparent; */
   width: 100px;
   transition: 0.2s;
@@ -28,9 +24,10 @@ header li:hover {
   background: var(--grey);
 }
 header ul a {
-  display: block;
+  display : flex;
+  justify-content: center;
+  align-items : center;
+
   text-align: center;
   height: 100%;
-  line-height: 200%;
-  text-decoration: none;
 }

@@ -15,7 +15,6 @@
 
 }
 .bouton_page1 {
-  text-decoration: none;
   position: relative;
   display: inline-block;
   padding: 10px 30px;
@@ -24,7 +23,6 @@
 }
 
 .bouton_page2 {
-    text-decoration: none;
     color: rgba(255, 0, 255, 0.4);
     background: #262c37;
     position: relative;
@@ -32,13 +30,11 @@
     padding: 10px 30px;
 }
 
-.bouton_page1:hover
-{
+.bouton_page1:hover {
   color: rgba(255, 255, 255, 1);
 }
 
-.bouton_page2:hover
-{
+.bouton_page2:hover {
   color: rgba(145, 170, 145, 1);
 }
 
@@ -52,11 +48,9 @@
   display: block;
   position: absolute;
   background: #ff9428;
-
 }
 
-section a span:nth-child(1)
-{
+section a span:nth-child(1) {
   left: 0;
   bottom: 0;
   width: 1px;
