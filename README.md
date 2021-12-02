@@ -8,3 +8,4 @@ Les membres de l'équipe sont :
 - Florian Duzes, FloDarPie
 - Theo Cavailles, igneefleur
 - Florian Auberval, Me-k-01
+- Guilhem 
