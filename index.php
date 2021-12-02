@@ -10,7 +10,12 @@
     <!-- Fichiers locaux -->
     <link rel="stylesheet" href="./css/master.css">
     <link rel="stylesheet" href="./css/header.css">
-    <link rel="stylesheet" href="./css/bouton_index.css">
+    <?php
+      if(isset($_GET['dys'])) {
+        echo '<link rel="stylesheet" href="./css/header.css">';
+      }
+    ?>
+
   </head>
   <body>
     <header>
