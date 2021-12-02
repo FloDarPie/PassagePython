@@ -2,25 +2,31 @@
   require "creditential.php";
 
   try { // Create connection
-    $conn = new PDO("mysql:host=$servername;dbname=$databasename", $username, $password);
+    $db = new PDO("mysql:host=$servername;dbname=$databasename", $username, $password);
   } catch (Exeption $err) {
     die("Connection failed: " . $err->getMessage());
   }
   $sql = "SELECT * FROM table" // TODO
-  $res = $conn->query($sql);
 
-  while ($line = $res->fetch()) {
-    // TODO: faire affichage
+
+  // Creer une list html de sauveteur
+  function makeList($sql) {
+    $res = $db->query($sql);
+    $ul = "<ul>";
+    while ($line = $res->fetch()) {
+      $ul .= "<li><p>${$line['prenom']} ${$line['nom']}</p></li>";
+    }
+    $ul .= "</ul>";
+    return $ul;
   }
 
-
-  // TODO: retourne une liste de sauveteur
-  function search($database, $name){
-    $sql = "SELECT * FROM T WHERE (
+  // Recherche les sauveteurs par nom
+  function searchSauveteur($name, $table){
+    $sql = "SELECT * FROM sauveteur WHERE (
       `nom` LIKE '%$name%' OR
       `prenom` LIKE '%$name%'
     )";
-    $students = $database->query($sql);
-
+    $res = $db->query($sql);
+    return $res;
   }
 ?>
