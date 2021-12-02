@@ -26,6 +26,7 @@
       <section>
         <h1>Titre</h1>
         <span class="decoration"></span>
+        <?php require './php/connect.php' ?>
       </section>
     </main>
   </body>
