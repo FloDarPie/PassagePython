@@ -2,9 +2,10 @@ header {
   display: flex;
   justify-content: space-between;
   background: var(--dark);
+  height: 50px;
 }
 header h1 {
-  padding: 5px 15px;
+  height: 100%;
   font: 2em "Fira Sans", sans-serif;
   border-bottom: 2px solid transparent;
 }
@@ -29,7 +30,13 @@ header ul a {
   display : flex;
   justify-content: center;
   align-items : center;
-
   text-align: center;
   height: 100%;
+}
+
+a {
+  color: var(--white);
+}
+header a:hover {
+  color: var(--white);
 }
