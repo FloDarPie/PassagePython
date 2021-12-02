@@ -6,6 +6,7 @@
     <!-- API -->
     <script src="https://code.jquery.com/jquery-3.6.0.js" charset="utf-8"></script>
     <script src="http://semantic-ui.com/dist/semantic.min.js" charset="utf-8"></script>
+    <script src="https://kit.fontawesome.com/da84674338.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://semantic-ui.com/dist/semantic.min.css">
     <!-- Fichiers locaux -->
     <link rel="stylesheet" href="/css/master.css">
@@ -26,7 +27,7 @@
       <section>
         <h1>Les Sauveteurs du Dunkerquois</h1>
         <span class="decoration"></span>
-        <?php echo makeList($db, "SELECT * FROM Sauveteur"); ?>
+        <?php echo makeList($db, "SELECT * FROM Sauveteur", array('prenom', 'nom')); ?>
       </section>
     </main>
   </body>
