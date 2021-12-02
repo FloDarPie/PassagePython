@@ -1,26 +1,29 @@
 <?php
   require "creditential.php";
 
-  try { // Create connection
-    $conn = new PDO("mysql:host=$servername;dbname=$databasename", $username, $password);
-  } catch (Exeption $err) {
+  try {
+    $db = new PDO("mysql:host=$servername;dbname=$databasename", $username, $password);
+  } catch (Exception $err) {
     die("Connection failed: " . $err->getMessage());
   }
-  $sql = "SELECT * FROM table" // TODO
-  $res = $conn->query($sql);
 
-  while ($line = $res->fetch()) {
-    // TODO: faire affichage
+  function debug($var) {
+    echo "<script type='text/javascript'>console.log($var);</script>";
   }
 
-
-  // TODO: retourne une liste de sauveteur
-  function search($database, $name){
-    $sql = "SELECT * FROM T WHERE (
-      `nom` LIKE '%$name%' OR
-      `prenom` LIKE '%$name%'
-    )";
-    $students = $database->query($sql);
-
+  // Creer une liste html a partir d'une requette
+  function makeList($db, $sql, $keys) {
+    $res = $db->query($sql);
+    $ul = "<ul>";
+    while ($line = $res->fetch()) {
+      $ul .= "<li><p>";
+      foreach ($keys as $key) {
+        $ul .= $line[$key] . " ";
+      }
+      $ul .= "</p></li>";
+    }
+    $ul .= "</ul>";
+    return $ul;
   }
+
 ?>
