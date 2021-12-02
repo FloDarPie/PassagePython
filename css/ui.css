@@ -1,0 +1,28 @@
+form {
+
+}
+
+input {
+  background: var(--dark);
+  height: 2em;
+  line-height: 2em;
+  font-size: 1em;
+  font-size: 1.8em;
+  text-indent: 10px;
+  padding: 5px;
+  vertical-align: middle;
+  transition: 0.2s;
+
+  border: none;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+}
+input:hover {
+  background-image: linear-gradient(var(--dark), var(--dark)),
+                    var(--colorfull);
+}
+input:focus {
+  outline: none;
+}

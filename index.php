@@ -11,8 +11,10 @@
     <!-- Fichiers locaux -->
     <link rel="stylesheet" href="css/master.css">
     <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/ui.css">
+    <script src="js/search.js" charset="utf-8"></script>
     <?php
-      if(isset($_GET['dys'])) 
+      if(isset($_GET['dys']))
         echo '<link rel="stylesheet" href="css/dys.css">';
       if(isset($_GET['park']))
         echo '<link rel="stylesheet" href="css/park.css">';
@@ -33,9 +35,15 @@
         </nav>
     </header>
     <main>
+      <banner>
+        <form id="form">
+          <input type="search" id="query" name="q" placeholder="Recherche...">
+          <button id="bouton" type=button>Recherche</button>
+        </form>
+        <span class="decoration"></span>
+      </banner>
       <section>
         <h1>Les Sauveteurs du Dunkerquois</h1>
-        <span class="decoration"></span>
         <?php echo makeList($db, "SELECT * FROM Sauveteur", array('prenom', 'nom')); ?>
       </section>
     </main>
