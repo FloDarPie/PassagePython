@@ -1,0 +1,84 @@
+Plan du site
+------------
+
+Sauveteur
+    tableau d'honneur
+    qui etaient ils
+    que faisaient ils
+    parole de
+    gratifications
+    sauveteurs d'ailleurs
+Sortie en mer
+    18eme siecle
+    19eme siecle
+        1800-1824
+        1825-1849
+        1850-1859
+        1860-1869
+        1870-1879
+        1880-1889
+        1890-1899
+    20eme
+        1900-1909
+        1910-1919
+        1920-1929
+        1930-1939
+        1940-1949
+        bataille de Dunkerque
+        1950-1959
+        1960-1969
+        1970-1979
+        1980-1989
+        1990-1999
+    21eme
+        2000-2009
+        2010-2019
+        2020-2029
+Stations
+    Dunkerque
+    Gravelines
+    Fort-Mardyck
+    malo-les-bains
+    bray-dunes
+Service du port
+    Douanes
+    lamanage
+    pilotage
+    pont et chaussees
+    remorquage
+Moyens maritimes
+    canot dunkerquois
+    canot fort-mardyckois
+    canot gravelinois
+    pilotage les moyens maritimes
+    remorqueurs dunkerquois
+techniques
+    materiel
+        lignebrunel
+        ligne torres
+        gaffes legrand
+        canon porte amarre
+        fusil porte amarre
+        fleche delvigne
+        sauveteur ceinture 1870
+    sauvetage et personne
+    va-et-vient
+historiques
+    EPHEMERIDE DU SAUVETAGE
+    40 ANS DE SOCIETE HUMAINE
+    SOCIETE CENTRALE DE SAUVETAGE des naufrage
+    societe nationale de sauvetage en mer
+    les comites locaux
+Complements
+    art et sauvetage
+    bibliographie
+    decoration et recompense
+    description des bateaux
+    galeries photos
+    fortune de mer
+Estaminet
+    /html/body/div[1]/div/main/div/div/div/article/div/p[3]/a
+    /html/body/div[1]/div/main/div/div/div/article/div/p[25]/a
+    /html/body/div[1]/div/main/div/div/div/article/div/p[24]/a
+    /html/body/div[1]/div/main/div/div/div/article/div/p[23]/a
+    /html/body/div[1]/div/main/div/div/div/article/div/p[22]/a
