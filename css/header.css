@@ -17,7 +17,7 @@ header ul {
   height: 100%;
 }
 header li {
-  border-top: 2px solid transparent;
+  border-left: 2px solid transparent;
   width: 100px;
   transition: 0.2s;
 }

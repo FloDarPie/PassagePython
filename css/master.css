@@ -3,8 +3,7 @@ html {
   --white: #cccccc;
   --dark: #171616;
   --grey: #1f2020;
-  /* --colorfull: linear-gradient(90deg, rgba(131,10,10,1) 0%, rgba(218,84,24,1) 41%, rgba(177,161,20,1) 100%); */
-  --colorfull: linear-gradient(90deg, rgba(101, 16, 131, 1) 0%, rgba(46, 70, 172, 1) 50%, rgba(127, 246, 246, 1) 100%);
+  --colorfull: linear-gradient(45deg, rgba(101, 16, 131, 1) 0%, rgba(46, 70, 172, 1) 50%, rgba(127, 246, 246, 1) 100%);
 }
 * {
   padding: 0;
@@ -40,6 +39,9 @@ h1 {
   margin-right: auto;
   height: 5px;
   border-radius: 10px;
+}
+
+p {
 }
 
 @media screen and (max-width: 1000px) {
