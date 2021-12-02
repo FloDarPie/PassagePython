@@ -26,7 +26,7 @@
       <section>
         <h1>Les Sauveteurs du Dunkerquois</h1>
         <span class="decoration"></span>
-        <?php echo makeList($db, "SELECT * FROM sauveteur"); ?>
+        <?php echo makeList($db, "SELECT * FROM Sauveteur"); ?>
       </section>
     </main>
   </body>
