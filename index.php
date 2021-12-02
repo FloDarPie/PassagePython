@@ -38,7 +38,7 @@
       <banner>
         <form id="form">
           <input type="search" id="query" name="q" placeholder="Recherche...">
-          <button id="bouton" type=button>Recherche</button>
+          <button id="bouton" type=button><i class="fas fa-search"></i></button>
         </form>
         <span class="decoration"></span>
       </banner>
