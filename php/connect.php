@@ -1,19 +1,19 @@
 <?php
   require "creditential.php";
 
-  echo "<script type="text/javascript">
-    console.log('1');
-  </script>";
-  try { // Create connection
+  try {
     $db = new PDO("mysql:host=$servername;dbname=$databasename", $username, $password);
   } catch (Exception $err) {
     die("Connection failed: " . $err->getMessage());
   }
-  echo "<script type="text/javascript">
-    console.log('ALAID');
-  </script>";
+
+  function debug($var) {
+    echo "<script type='text/javascript'>console.log($var);</script>";
+  }
+
   // Creer une liste html de sauveteur
-  function makeList($sql) {
+  function makeList($db, $sql) {
+    debug($sql);
     $res = $db->query($sql);
     $ul = "<ul>";
     while ($line = $res->fetch()) {
@@ -24,7 +24,7 @@
   }
 
   // Recherche les sauveteurs par nom
-  function searchSauveteur($name, $table){
+  function searchSauveteur($db, $name, $table){
     $sql = "SELECT * FROM sauveteur WHERE (
       `nom` LIKE '%$name%' OR
       `prenom` LIKE '%$name%'
