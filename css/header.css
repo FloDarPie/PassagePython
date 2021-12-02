@@ -6,8 +6,10 @@ header {
 }
 header h1 {
   height: 100%;
+  margin: 0; padding: 0 10px;
   font: 2em "Fira Sans", sans-serif;
   border-bottom: 2px solid transparent;
+  cursor: pointer;
 }
 header h1:hover {
   border-image: var(--colorfull) 10;
@@ -19,23 +21,21 @@ header ul {
 }
 header li {
   border-left: 2px solid transparent;
+  border-image: var(--colorfull) 10;
   width: 100px;
   transition: 0.2s;
 }
 header li:hover {
-  border-image: var(--colorfull) 10;
   background: var(--grey);
 }
-header ul a {
-  display : flex;
-  justify-content: center;
-  align-items : center;
+header a {
   text-align: center;
+  display: block;
   height: 100%;
-}
-
-a {
+  width: 100%;
+  line-height: 50px;
   color: var(--white);
+  transition: 0.2s;
 }
 header a:hover {
   color: var(--white);

@@ -6,8 +6,7 @@ html {
   --colorfull: linear-gradient(45deg, rgba(101, 16, 131, 1) 0%, rgba(46, 70, 172, 1) 50%, rgba(127, 246, 246, 1) 100%);
 }
 * {
-  padding: 0;
-  margin: 0;
+  padding: 0; margin: 0;
   color: var(--white);
   list-style-type: none;
   text-decoration: none;
@@ -28,8 +27,8 @@ main {
   transition: 0.5s;
 }
 h1 {
+  margin: 0; padding: 10px;
   text-align: center;
-  padding: 10px;
 }
 .decoration {
   display: block;
@@ -37,7 +36,7 @@ h1 {
   width: 90%;
   margin-left: auto;
   margin-right: auto;
-  height: 5px;
+  height: 4px;
   border-radius: 10px;
 }
 
