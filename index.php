@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="css/master.css">
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/ui.css">
-    <script src="js/search.js" charset="utf-8"></script>
+    <script src="js/search.js" charset="utf-8" defer></script>
     <?php
       if(isset($_GET['dys']))
         echo '<link rel="stylesheet" href="css/dys.css">';
