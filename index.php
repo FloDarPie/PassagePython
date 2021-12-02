@@ -14,9 +14,10 @@
     <?php
       if(isset($_GET['dys'])) 
         echo '<link rel="stylesheet" href="css/dys.css">';
-      if(isset($_GET['av']))
-        echo '<link rel="stylesheet" href="css/av.css">';
-
+      if(isset($_GET['park']))
+        echo '<link rel="stylesheet" href="css/park.css">';
+      if(isset($_GET['dalt']))
+        echo '<link rel="stylesheet" href="css/dalt.css">';
       require "php/connect.php";
     ?>
 
