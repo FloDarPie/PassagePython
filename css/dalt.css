@@ -1,3 +1,5 @@
-a {
-  background: red;
+
+* {
+    background: white !important;
+    color: black !important;
 }
