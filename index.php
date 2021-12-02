@@ -26,7 +26,7 @@
       <section>
         <h1>Titre</h1>
         <span class="decoration"></span>
-        <?php echo makeList($db, "SELECT * FROM Sauveteur"); ?>
+        <?php echo makeList($db, "SELECT * FROM Sauveteur", array('prenom', 'nom')); ?>
       </section>
     </main>
   </body>
