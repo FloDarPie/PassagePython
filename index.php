@@ -9,9 +9,15 @@
     <script src="https://kit.fontawesome.com/da84674338.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="http://semantic-ui.com/dist/semantic.min.css">
     <!-- Fichiers locaux -->
-    <link rel="stylesheet" href="/css/master.css">
-    <link rel="stylesheet" href="/css/header.css">
-    <?php require "php/connect.php"; ?>
+    <link rel="stylesheet" href="./css/master.css">
+    <link rel="stylesheet" href="./css/header.css">
+    <?php
+      require "php/connect.php";
+      if(isset($_GET['dys'])) {
+        echo '<link rel="stylesheet" href="./css/header.css">';
+      }
+    ?>
+
   </head>
   <body>
     <header>

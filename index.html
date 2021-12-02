@@ -26,18 +26,19 @@
           <h1>Les Sauveteurs du Dunkerquois</h1>
         <span class="decoration"></span>
       </section>
-      <form id="form"> 
+      <form id="form">
         <input type="search" id="query" name="q" placeholder="Recherche...">
         <button id="bouton" type=button>Recherche</button>
       </form>
     </main>
     <script>
       b = document.getElementById('bouton');
+      
       b.addEventListener('click', function event() { 
         const value = document.getElementById('query').value; 
         document.getElementById('query').value = "";
         //TODO
-      }); 
+      });
     </script>
   </body>
 </html>
