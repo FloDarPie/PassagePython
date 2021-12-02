@@ -1,15 +1,18 @@
 <?php
   require "creditential.php";
 
+  echo "<script type="text/javascript">
+    console.log('1');
+  </script>";
   try { // Create connection
     $db = new PDO("mysql:host=$servername;dbname=$databasename", $username, $password);
-  } catch (Exeption $err) {
+  } catch (Exception $err) {
     die("Connection failed: " . $err->getMessage());
   }
-  $sql = "SELECT * FROM table" // TODO
-
-
-  // Creer une list html de sauveteur
+  echo "<script type="text/javascript">
+    console.log('ALAID');
+  </script>";
+  // Creer une liste html de sauveteur
   function makeList($sql) {
     $res = $db->query($sql);
     $ul = "<ul>";
