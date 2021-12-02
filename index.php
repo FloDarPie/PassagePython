@@ -8,9 +8,9 @@
     <script src="http://semantic-ui.com/dist/semantic.min.js" charset="utf-8"></script>
     <link rel="stylesheet" href="http://semantic-ui.com/dist/semantic.min.css">
     <!-- Fichiers locaux -->
-    <link rel="stylesheet" href="./css/master.css">
-    <link rel="stylesheet" href="./css/header.css">
-    <link rel="stylesheet" href="./css/bouton_index.css">
+    <link rel="stylesheet" href="/css/master.css">
+    <link rel="stylesheet" href="/css/header.css">
+    <?php require "php/connect.php"; ?>
   </head>
   <body>
     <header>
@@ -26,7 +26,7 @@
       <section>
         <h1>Titre</h1>
         <span class="decoration"></span>
-        <?php require './php/connect.php' ?>
+        <?php echo makeList($db, "SELECT * FROM sauveteur"); ?>
       </section>
     </main>
   </body>
