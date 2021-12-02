@@ -11,12 +11,16 @@
     echo "<script type='text/javascript'>console.log($var);</script>";
   }
 
-  // Creer une liste html de sauveteur
-  function makeList($db, $sql) {
+  // Creer une liste html a partir d'une requette
+  function makeList($db, $sql, $keys) {
     $res = $db->query($sql);
     $ul = "<ul>";
     while ($line = $res->fetch()) {
-      $ul .= "<li><p>".$line['prenom']." ".$line['nom']."</p></li>";
+      $ul .= "<li><p>";
+      foreach ($keys as $key) {
+        $ul .= $line[$key] . " ";
+      }
+      $ul .= "</p></li>";
     }
     $ul .= "</ul>";
     return $ul;
