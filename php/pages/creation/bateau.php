@@ -6,6 +6,7 @@
     <script src="/js/create/bateau.js" charset="utf-8" defer></script>
   </head>
   <body>
+    <?php require "php/header.php" ?>
     <h1>CREATION DE BATEAU</h1>
     <p>nom :</p>
     <textarea id="name" name="nom" rows="1" cols="64"></textarea>
