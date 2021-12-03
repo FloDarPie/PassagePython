@@ -42,9 +42,9 @@
             <button id="bouton" type=button><i class="fas fa-search"></i></button>
           </div>
           <div id="select">
-            <input type="radio" name="JTP" id="personne" value="personne">Personne<br>
-            <input type="radio" name="JTP" id="bateau" value="bateau">Bateau<br>
-            <input type="radio" name="JTP" id="sauvetage" value="sauvetage">Sauvetage<br>
+            <label for="sauveteur"><input type="radio" name="JTP" id="sauveteur" value="sauveteur">Sauveteur</label><br/>
+            <label for="bateau"><input type="radio" name="JTP" id="bateau" value="bateau">Bateau</label><br/>
+            <label for="sauvetage"><input type="radio" name="JTP" id="sauvetage" value="sauvetage">Sauvetage<br></label><br/>
           </div>
         </form>
         <span class="decoration"></span>
