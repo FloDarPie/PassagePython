@@ -6,15 +6,18 @@ import os
 
 def setup():
     os.remove('memoire.txt')
+    a = open("memoire.txt", "x")
     os.remove('lien.txt')
+    b = open("lien.txt", "x")
+    os.remove("kit.txt")
+    c = open("kit.txt", "x")
     print('fichiers memoire et lien supprime')
-    a= open("memoire.txt", "x")
-    b= open("lien.txt", "x")
     a.close()
     b.close()
+    c.close()
     print('fichiers memoire et lien creer')
 
-def etudPage(url,affichage):
+def etudPage(url,affichage, fic1,fic2):
     #chargement de la page
     r = requests.get(url)
 
@@ -38,8 +41,8 @@ def etudPage(url,affichage):
     #parcours de l'ensemble du tableau de string
     for ligne in tableau:
          # a_append / x_create file / w_write in file
-         f = open("memoire.txt", "a")
-         lien = open("lien.txt", "a")
+         f = open(fic1, "a")
+         lien = open(fic2, "w")
          #pour chaque ligne de l'HTML
          for element in range(len(ligne)):
 
@@ -75,6 +78,7 @@ def etudPage(url,affichage):
                  sautLigne = True
              elif sautLigne:
                  lien.write("\n")
+                 etudDirect(fic3,fic4)
                  sautLigne = False
     lien.write("#\n")
     f.write('-----------------------------------------------')
@@ -97,17 +101,24 @@ def etudRecursive():
             #break
     print('TERMINE')
 
+def etudDirect(fic1,fic2):
+    lien = open("lien.txt", "r")
+    url = lien.readlines()
+    print(url)
+    etudPage(url[-1],False,fic1,fic2)
 
-def lancement(url):
+def lancement(url,fic1,fic2):
     #supprime les fichiers et les recreer
     setup()
     #avoir le rendu de la page et l'affichage dans le terminal
-    etudPage(url,False)
-    etudRecursive()
+    etudPage(url,False,fic1,fic2)
 
 
 
 #instanciation du lien
 url = 'https://sauveteurdudunkerquois.fr/tableau-d-honneur/'
-
-lancement(url)
+fic1 = "memoire.txt"
+fic2 = "lien.txt"
+fic3 = "kit.txt"
+fic4 = "trash.txt"
+lancement(url,fic1,fic2)
