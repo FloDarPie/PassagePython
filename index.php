@@ -45,13 +45,13 @@
             <label class="rad-label">
               <input type="radio" class="rad-input" name="rad" value="bateau" id="bateau">
               <div class="rad-design"></div>
-              <div class="rad-text">Bateau</div>
+              <div class="rad-text">Sauvé</div>
             </label>
 
             <label class="rad-label">
               <input type="radio" class="rad-input" name="rad" value="sauvetage" id="sauvetage">
               <div class="rad-design"></div>
-              <div class="rad-text">Sauvetage</div>
+              <div class="rad-text">Bateau</div>
             </label>
           </div>
         </form>
