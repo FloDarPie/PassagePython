@@ -5,9 +5,9 @@ function submit() {
     for(var i=0,cbLen=cbs.length;i<cbLen;i++){
         if(cbs[i].checked){
             values.push(cbs[i].value);
-        } 
+        }
     }
-    alert('You selected: ' + values.join(', '));
+    alert(location.host + '?' + values.join('=true&')+'=true');
 }
 function openForm() {
     document.getElementById("popupForm").style.display = "block";

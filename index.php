@@ -12,7 +12,9 @@
     <link rel="stylesheet" href="css/master.css">
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/ui.css">
+    <link rel="stylesheet" href="css/handicap.css">
     <script src="js/search.js" charset="utf-8" defer></script>
+    <script src="js/handicap.js" defer></script>
     <?php
       if(isset($_GET['dys']))
         echo '<link rel="stylesheet" href="css/dys.css">';
@@ -33,7 +35,7 @@
           <li><a href="#">page2</a></li>
         </ul>
       </nav>
-      <button type="button" name="button"><i class="fas fa-wheelchair"></i></button>
+      <button type="button" name="button" onclick="openForm()"><i class="fas fa-wheelchair"></i></button>
     </header>
     <main>
       <banner>
@@ -68,5 +70,16 @@
       <section id="section"></section>
 
     </main>
+    <div class="loginPopup">
+      <div class="formPopup" id="popupForm">
+        <form action="/action_page.php" class="formContainer" name="handi">
+            <input type="checkbox" name="handicap" value="park">Parkinson</input>
+            <input type="checkbox" name="handicap" value="dalt">Daltonien</input>
+            <input type="checkbox" name="handicap" value="dys">Dyslexique</input>
+            <button type="submit" class="btn" id="submit">Valider</button>
+            <button type="button" class="btn cancel" onclick="closeForm()">Fermer</button>
+        </form>
+      </div>
+    </div>
   </body>
 </html>
