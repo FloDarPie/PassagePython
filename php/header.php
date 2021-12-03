@@ -2,9 +2,9 @@
   <h1><a href="/index.php">Les Sauveteurs</a></h1>
   <nav>
     <ul>
-      <li><a href="#">Création Sauveteur</a></li>
-      <li><a href="#">Création Sauvé</a></li>
-      <li><a href="#">Création Bateau</a></li>
+      <li><a href="/php/pages/creation/sauveteur.php">Création Sauveteur</a></li>
+      <li><a href="/php/pages/creation/sauve.php">Création Sauvé</a></li>
+      <li><a href="/php/pages/creation/bateau.php">Création Bateau</a></li>
     </ul>
   </nav>
   <button type="button" name="button" onclick="openForm()"><i class="fas fa-wheelchair"></i></button>
