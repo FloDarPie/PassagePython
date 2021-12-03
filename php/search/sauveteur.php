@@ -1,4 +1,5 @@
 <?php
+require "../connect.php";
 
 function recherche_sauveteur($database, $value){
   // on selectionne les colonnes des sauveteurs a partir d'un mot
@@ -13,4 +14,7 @@ function recherche_sauveteur($database, $value){
 
   return $sauveteurs;
 }
+
+echo recherche_sauveteur($db, $_POST['value']);
+
 ?>
