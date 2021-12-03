@@ -12,15 +12,15 @@
   }
 
   // Creer une liste html a partir d'une requette
-  function makeList($db, $sql, $keys) {
+  function makeList($db, $sql, $keys, $primary_key, $name) {
     $res = $db->query($sql);
     $ul = "<ul>";
     while ($line = $res->fetch()) {
-      $ul .= "<li><p>";
+      $ul .= '<li id="' . $line[$primary_key] . '"><p><a href="' . $name . '?id=' . $line[$primary_key] . '">';
       foreach ($keys as $key) {
         $ul .= $line[$key] . " ";
       }
-      $ul .= "</p></li>";
+      $ul .= "</a> </p> </li>";
     }
     $ul .= "</ul>";
     return $ul;

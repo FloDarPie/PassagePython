@@ -8,7 +8,7 @@ function recherche_bateau($database, $value){
   . 'SELECT `Bateau`.`id`, `Bateau`.`nom` FROM `Bateau`'
   . "WHERE `Bateau`.`nom` LIKE '%$value%'"
   . 'LIMIT 50',
-  array('id', 'nom')
+  array('nom'), 'id', "/php/pages/bateau.php"
   );  // on limite le nombre de resultats a 50
 
   return $bateaux;
