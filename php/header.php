@@ -39,3 +39,83 @@
     </form>
   </div>
 </div>
+
+
+
+<script type="text/javascript">
+var min = 0;
+var seconde =0;
+
+var dechet; // temps qui passe -> doit devenir nb dechet par seconde
+var digit_pos = 0
+var aiguille_deg = 0
+var attendu = 0
+var x = 1/attendu
+
+var compteur=0;
+
+var dechet; // temps qui passe -> doit devenir nb dechet par seconde
+
+
+
+function incrementer() {
+
+  var taux = 6.8*compteur/600;
+
+  if(taux<136){
+      document.getElementById("aiguille").style.transform = 'rotate('+taux*180/136+'deg)'
+  }
+
+  if (seconde>=60){
+      min+=1;
+      seconde=0
+  }
+  else {
+      seconde+=0.1
+  }
+
+  compteur+=1
+
+  var compt=document.getElementById("compteur")
+
+document.getElementById("co2").innerHTML =((taux/10).toFixed(2)+ "   g de co2" ); // équivalent print ? fait référence à heure de html
+  document.getElementById("cpt").innerHTML =(min + "  min "+ seconde.toFixed(0)+ " secondes");
+  document.getElementById("compteur").setAttribute("style", "color:black");
+  document.getElementById("min").innerHTML =(((min*60+seconde)*19/3600).toFixed(2));
+
+
+}
+
+function cpt() {
+document.getElementById("compteur").innerHTML = "Test";
+}
+
+function init() {
+dechet = setInterval("incrementer()",100);
+}
+
+
+function move_aiguille() {
+aiguille_deg = attendu*180/10 - (1/x)*180/10
+document.getElementById("aiguille").style.transform = 'rotate('+aiguille_deg+'deg)'
+}
+
+
+
+</script>
+<div id="bulleVerte">
+  <div hidden id="bulle">
+    <div id="cadran">
+      <div id="aiguille"></div>
+    </div>
+    <div id="cpt-ges-text">
+      <p id="co2"></p>
+    </div>
+  </div>
+</div>
+<div id="bulleOrange" style="text-align:left">
+  <p id="message" style="color: white; font-size: 12pt; padding-left: 10px;" >
+    Tu as laiss&eacute ta chambre allum&eacutee<br>
+    pendant <span id="min"></span> min.
+  </p>
+</div>
