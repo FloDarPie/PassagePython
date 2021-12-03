@@ -26,7 +26,7 @@
   </head>
   <body>
     <header>
-        <h1><a href="index.html">Les Sauveteurs du Dunkerquois</a></h1>
+        <h1><a href="index.html">Les Sauveteurs</a></h1>
         <nav>
           <ul>
             <li><a href="#">page1</a></li>

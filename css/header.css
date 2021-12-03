@@ -1,25 +1,22 @@
-/*barre en haut*/
 header {
-    display: flex;
-    justify-content: space-between;
-    background: var(--dark);
-    height: 50px;
+  display: flex;
+  background: var(--dark);
+  height: 50px;
 }
 header h1 {
-  position:relative;
-  left:0px;
+  position: relative;
   height: 100%;
   margin: 0; padding: 0 10px;
   font: 2em "Fira Sans", sans-serif;
   border-bottom: 2px solid transparent;
   cursor: pointer;
   overflow: hidden;
+  transition: 0.2s;
 }
 header h1:hover {
   border-image: var(--colorfull) 10;
 }
 header ul {
-  margin-left: auto;
   display: flex;
   height: 100%;
 }
