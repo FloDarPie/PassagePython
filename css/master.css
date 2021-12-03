@@ -33,7 +33,7 @@ h1 {
 .decoration {
   display: block;
   background: var(--colorfull);
-  width: 90%;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
   height: 4px;
