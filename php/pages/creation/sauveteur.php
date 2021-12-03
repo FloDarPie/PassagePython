@@ -2,7 +2,7 @@
 <html lang="fr" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Création sauveteur · Les Sauveteurs du Dunkerquois</title>
     <script src="/js/create/sauveteur.js" charset="utf-8" defer></script>
   </head>
   <body>

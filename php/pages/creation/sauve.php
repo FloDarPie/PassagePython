@@ -2,11 +2,11 @@
 <html lang="fr" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Creation sauvé · Les Sauveteurs du Dunkerquois</title>
     <script src="/js/create/sauve.js" charset="utf-8" defer></script>
   </head>
   <body>
-    <h1>CREATION DE SAUVé</h1>
+    <h1>CREATION DE SAUVÉ</h1>
     <p>nom :</p>
     <textarea id="name" name="nom" rows="1" cols="64"></textarea>
     <p>prenom :</p>
