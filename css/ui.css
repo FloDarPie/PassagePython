@@ -1,5 +1,6 @@
 #form {
   display: flex;
+  flex-direction: column;
   margin: 10px auto;
   width: 50%;
   align-items: center;
@@ -12,6 +13,9 @@
   background: var(--dark);
   height: 2em;
   flex-grow: 1;
+  min-width: 50%;
+  width: 70vh;
+  max-width: 70vh;
   line-height: 2em;
   font-size: 1.4em;
   text-indent: 10px;
@@ -52,7 +56,6 @@
 }
 #selection {
   display: flex;
-  flex-direction: column;
 }
 
 .rad-label {
