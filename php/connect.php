@@ -1,5 +1,5 @@
 <?php
-  require "creditential.php";
+  require "credential.php";
 
   try {
     $db = new PDO("mysql:host=$servername;dbname=$databasename", $username, $password);
