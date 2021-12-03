@@ -49,10 +49,8 @@
         </form>
         <span class="decoration"></span>
       </banner>
-      <section>
-        <h1>Les Sauveteurs du Dunkerquois</h1>
-        <?php echo makeList($db, "SELECT * FROM Sauveteur", array('prenom', 'nom')); ?>
-      </section>
+      <h1>Les Sauveteurs du Dunkerquois</h1>
+      <section id="section"></section>
 
     </main>
   </body>

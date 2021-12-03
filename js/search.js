@@ -1,10 +1,14 @@
 const button = document.getElementById('bouton')
 const bar = document.getElementById('query')
+const section = document.getElementById('section')
 
 const recherche_sauveteur = new XMLHttpRequest()
 recherche_sauveteur.onreadystatechange = function() {
   if(this.readyState == 4 && this.status == 200){
-    console.log(recherche_sauveteur.responseText)
+    const text = recherche_sauveteur.responseText
+
+    section.innerHTML = "" // retire tous les enfants de section
+    section.innerHTML = text
   }
 }
 
