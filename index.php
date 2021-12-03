@@ -43,7 +43,7 @@
           </div>
           <div id="selection">
             <label class="rad-label">
-              <input type="radio" class="rad-input" name="rad" value="sauveteur" id="sauveteur">
+              <input type="radio" class="rad-input" name="rad" value="sauveteur" id="sauveteur" checked>
               <div class="rad-design"></div>
               <div class="rad-text">Sauveteur</div>
             </label>
