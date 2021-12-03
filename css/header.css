@@ -6,15 +6,24 @@ header {
 header h1 {
   position: relative;
   height: 100%;
+
   margin: 0; padding: 0 10px;
   font: 2em "Fira Sans", sans-serif;
-  border-bottom: 2px solid transparent;
   cursor: pointer;
   overflow: hidden;
+
+  background-image: linear-gradient(var(--white), var(--white));
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  background-clip: text;
+
   transition: 0.2s;
 }
 header h1:hover {
-  border-image: var(--colorfull) 10;
+  background-image: var(--colorfull);
 }
 header ul {
   display: flex;

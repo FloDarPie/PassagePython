@@ -59,7 +59,13 @@ main li a * {
 }
 
 main li a:hover * {
-  color: rgb(231, 155, 55);
+  background-color: #e09f49;
+  background-image: linear-gradient(45deg, #e09f49, #c44e6f);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
 }
 
 @media screen and (max-width: 1000px) {
