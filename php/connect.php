@@ -16,11 +16,11 @@
     $res = $db->query($sql);
     $ul = "<ul>";
     while ($line = $res->fetch()) {
-      $ul .= '<li id="' . $line[$primary_key] . '"><p><a href="' . $name . '?id=' . $line[$primary_key] . '">';
+      $ul .= '<li id="' . $line[$primary_key] . '"><a href="' . $name . '?id=' . $line[$primary_key] . '">';
       foreach ($keys as $key) {
-        $ul .= $line[$key] . " ";
+        $ul .= "<div class='". $key ."'>". $line[$key] . "</div>";
       }
-      $ul .= "</a> </p> </li>";
+      $ul .= "</a></li>";
     }
     $ul .= "</ul>";
     return $ul;
