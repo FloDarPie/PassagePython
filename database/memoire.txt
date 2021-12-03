@@ -655,11 +655,45 @@ Envoyée au gouvernement français pour l’honorable président de la Société
 
 L’inscription de la médaille envoyée par lord Clarendon à M. Morel, porte: « The British government to Benjamin Morel  of Dunkirk, for assistance rendered to shipwrecked british seamen. December 1855)     
 -----------------------------------------------
-User cp1170155p08_wp775 already has more than 'max_user_connections' active connections
 
-This either means that the username and password information in your wp-config.php file is incorrect or we can’t contact the database server at localhost. This could mean your host’s database server is down.
 
-If you’re unsure what these terms mean you should probably contact your host. If you still need help you can always visit the WordPress Support Forums.
+Né le 2 décembre 1876 – Dunkerque (Nord)
+
+Décédé 
+
+Fils de Leon Fidele Amand BENTEU, né le 17 janvier 1848 – Esquelbecq (Nord) Décédé le 13 juillet 1914 – Dunkerque (Nord) à l’âge de 66 ans Mécanicien, chef-mécanicien, rentier (domicilié en mars 1903 à Dunkerque) et de Eugénie Carolie Blanche CASTEUR, née vers 1847 – Dunkerque (Nord), décédée le 1er octobre 1905 – Dunkerque (Nord) à l’âge d’environ 58 ans 
+
+Marié le  2 mars 1903, Dunkerque (Nord), avec Gabrielle Alphonsine MARYN, née le 12 janvier 1880 – Dunkerque (Nord), décédée.
+
+Il est le beau-fils de Frédéric Julien Maryn Pilote trois sauvetages en mer à son actif
+
+1912  Officier en second sur le steamer Caravellas des Chargeurs Réunis
+
+Albert Benteu commanda, après guerre, les paquebots mixtes Amiral-Latouche-Tréville et Cap-Lay – ex-Halgan –, de la Compagnie des chargeurs réunis.
+
+ Surpris par un typhon dans la nuit du 15 au 16 juillet 1928, alors que le Cap-Lay allait de Dunkerque à Haïphong, et se trouvait au mouillage en baie d’Along, à l’entrée de la rivière Haïphongle, le bâtiment fit naufrage dans le golfe du Tonkin. 
+
+Il y eut au total 52 victimes : 26 membres d’équipage et 26 passagers.
+
+Poursuivi pour homicides involontaires, Albert Benteu fut finalement relaxé par la Cour d’appel d’Hanoï en Février 1929.
+
+Juin 1921               Chevalier de la Légion d’honneur
+
+                                            J.O. 20 juin 1921, p 7044  -Dossier non trouvé
+
+Très beaux services de guerre, Attaqué deux fois par des sous-marins. Belle attitude lors de l’incendie  de son bâtiment
+
+22 mai 1916           Prix Henri Durand de Blois
+
+31 octobre 1915     Témoignage officiel de satisfaction
+
+                                                                                                   Direction de l’inscription maritime de Bordeaux
+
+12 août 1915               Sauvetage du vapeur belge Koophandel – 9 personnes sauvées
+
+27 décembre 1912    Sauvetage de l’ALCYON – Equipage sauvé
+
+1904                            Sauvetage de trois personnes en rivière Bordeaux 
 -----------------------------------------------
 
 
@@ -967,11 +1001,91 @@ En savoir plus
 
 
 -----------------------------------------------
-User cp1170155p08_wp775 already has more than 'max_user_connections' active connections
+Pilote du port de Dunkerque il participa à de nombreuses opérations de sauvetage.
 
-This either means that the username and password information in your wp-config.php file is incorrect or we can’t contact the database server at localhost. This could mean your host’s database server is down.
+Le Ministre de la Marine M Rosamel dira en lui remettant sa légion d’honneur
 
-If you’re unsure what these terms mean you should probably contact your host. If you still need help you can always visit the WordPress Support Forums.
+Bommelaer j’ai rendu compte au Roi des actes nombreux par lesquels vous avez signalé votre humanité et votre courage pour sauver des personnes exposées à périr dans les flots . Voulant récompenser une conduite aussi méritoire et vous donner une haute marque de sa satisfaction Sa Majesté  vous a nommé chevalier de la la Légion d’Honneur.
+
+A noter que son petit neveu Jacques Bommelaer est également chevalier de la légion d’honneur au titre du sauvetage en mer.
+
+Naissance 14 juillet 1791 à Dunkerque
+
+1802 Mousse sur le Benjamin (Pêcheur d’Islande)
+
+1809 Affecté sur l’Aviso LA MOUCHE
+
+1813 Aspirant pilote
+
+1817 Pilote
+
+1830 Elevé à la dignité de chef en mer
+
+Décédé 28 juin 1857 en portant secours aux naufragés des TROIS SŒURS
+
+Fils de Nicolas Manuel
+
+et d’Isabelle Jacqueline NOEDTS
+
+Mariage le 07/02/1816 avec Cécile Jeanne GREMAIN née le 19/09/1798 à Dunkerque
+
+Légion d’Honneur dossier LH/276/12  
+
+                               (Attention enregistré sous le patronyme Bomelaev)
+
+Médaille d‘or
+
+Marine Nationale 2 ans
+
+En temps de guerre 2 ans et 7 mois
+
+Commerce  25 ans et 5 mois
+
+Pilotage
+
+Sauvetage du LE COUZIOT  Equipage sauvé
+
+Sauvetage de la JEUNE CELINE –  Equipage sauvé
+
+Sauvetage du NAVARINO 14 personnes sauvées
+
+Médaille argent
+
+Témoignage de satisfaction
+
+Sauvetage de la FELICITE Equipage sauvé
+
+Témoignage de satisfaction du 26 novembre 1854
+
+Sauvetage des TROIS SŒURS 2 personnes sauvées Mathias Bommelaer y perdra la vie
+
+RAPPORT DE MATHIAS BOMMELAER ASPIRANT PILOTE DU 1er OCTOBRE 1814 « Aujourd’hui, premier octobre mil-huit-cent-quatorze, est comparu, au bureau du Pilotage de Dunkerque, le nommé Mathias Bommelaer aspirant pilote, lequel a dit et déclaré que le dit jour vers midi, étant à bord de la corvette stationnée en rade, ils eurent connaissance d’un navire venant de l’Est.
+
+Aussitôt ils levèrent l’ancre et appareillèrent pour aller à sa rencontre ; qu’à une heure de relevée étant arrivée à l’Est du ci-devant Fort Blanc, ils amarinèrent le dit navire navigant sous pavillon hollandais et le nom de « Vrouw Elisabeth » Capitaine Vandepoel Vandepoele ; que lui Mathias Bommelaer étant de tour monta à bord ; que les vents étaient de la partie de l’Est, grand frais la mer très grosse ; que vers une heure et demie, heure de la pleine mer, il fit route pour le port, ayant chenalé et rasé l’estacade aussi près que possible ;
+
+que le dit bâtiment étant venu du lof perdit tout-à-coup son grand air (1); que la mer étant extrêmement grosse et maîtrisant le navire il driva (2) par dessus les jetées de l’ouest; qu’ayant touché contre la septième balise il fit l’impossible pour faire arriver le navire lof pour lof; mais que la barre du gouvernail s’étant rompue, il ne put exécuter cette manœuvre ; qu’alors le bâtiment ayant passé par dessus les jetées il se décida à faire côte ;
+
+qu’en conséquence il fit hisser la trinquette et partie de la grand’voile afin de monter à la côte aussi haut que possible pour avoir le navire hors la plus grosse mer ; que vers les deux heures et demie ce bâtiment était entièrement échoué et ne fatiguait plus; qu’à trois heures il restait fort peu d’eau près du dit navire et qu’il ordonna alors de descendre à terre et de porter une ancre dans le S.S.E. ce qui fut exécuté ;
+
+qu’il déclare et observe en outre que pendant la durée de ces manœuvres plusieurs bateaux lamaneurs essayèrent de parvenir au bâtiment mais que malgré les plus grands efforts, aucun d’eux ne put l’aborder, la mer étant excessivement grosse, en sorte qu’il fut privé de leur secours ». 
+
+(1) on dirait de nos jours « son erre (2) forme ancienne et locale de « dériva
+
+Matthias Bommelaere repose au cimetière de Dunkerque (Allée E10 à coté de ses compagnons d’infortune.)
+Cette sépulture,  comme celles de ses deux compagnons, est entretenue par l’association philantropique « Les Corsaires Dunkerquois »
+Tout comme ses deux compagnonsvictimes de leur courage ,son nom est figé dansle marbre du Leughenaer
+
+Sources
+
+BNF Gallica Société centrale de sauvetage des naufragés 1866 – 1939
+
+Base Léonore Dossier de la légion d’honneur
+
+Dunkerque magazine Les marins de l’impossible
+
+Jacky Messiaen « Des corvettes et des hommes » Edition Kim Dunkerque
+
+Crédit photographique Philippe Boutelier
 -----------------------------------------------
 
 
@@ -1164,11 +1278,181 @@ Son ami Joseph Taylor a été décoré en 1924. Il décède en 1935.
 SourceLe Grand Echo du Nord de la France  23 juillet 1937
 
 -----------------------------------------------
-User cp1170155p08_wp775 already has more than 'max_user_connections' active connections
 
-This either means that the username and password information in your wp-config.php file is incorrect or we can’t contact the database server at localhost. This could mean your host’s database server is down.
 
-If you’re unsure what these terms mean you should probably contact your host. If you still need help you can always visit the WordPress Support Forums.
+
+
+
+
+Né le 27 février 1910  à Dunkerque
+
+Décédé le 26 juillet 1990
+
+Domicilié 17 rue du Maréchal Joffre
+
+Fils de Arsène Bossu (Patron du canot de sauvetage) et  de Sophie Renaux
+
+Marié le 25 janvier 1930  avec Marie Emilienne Schutt, née le 24 mars 1911 dont
+
+ Eliane
+
+                           Marcelle
+
+                           Gérard
+
+                           Francis – décédé à l’âge d’un jour
+
+Marié le 4 juin 1949, Dunkerque (Nord), avec Henriette Louise BIGOT
+
+                            Annie
+
+                            Martine
+
+                            Didier (Lamaneur, Patron du canot de sauvetage, Chevalier du Mérite Maritime)
+
+                            Denis (Lamaneur, Sauveteur en mer)
+
+1924  Embarquement comme novice sur le JACQUES CARTIER
+
+1930  Marine Nationale 
+
+1933  Embarquement sur le QUENTIN ROOSEVELT  – Assistance à Islande
+
+1936  Entrée au lamanage
+
+1940  Embarqué sur le PUISSANT qui est coulé par les bombes allemandes il est en Angleterre le 2 juin, renvoyé sur Cherbourg puis Saint-Nazaire. Revient à Dunkerque en vélo en passant par Bordeaux…..
+
+1947  Relance le lamanage à Dunkerque avec Auguste Brunet
+
+1971  Nommé patron du canot de sauvetage
+
+1977  Ramène de Douarnenez le nouveau canot de sauvetage de la SNSM le JEAN-BART
+
+21 juin                 Sauvetage PRINCESSE ASTRID (Sous-patron)  42 personnes sauvées
+
+15 juillet              Sauvetage ORANJE  (Sous-patron)  3 personnes sauvées
+
+22 juillet              Sauvetage LITTLESTAR (Sous-patron)  1 équipage sauvé
+
+3 août                 Sortie sur fausse alerte   (Sous-patron)  
+
+3 août                 Sortie sur fausse alerte   (Sous-patron)  
+
+3 août                 Assistance au KESTREL  (Sous-patron)  
+
+22 septembre     Assistance au FREDERIC SAUVAGE  (Sous-patron)  
+
+22 décembre      Sortie sur fusée de détresse (Sous-patron)  
+
+15  février           Assistance au EDMOND RENE  (Sous-patron)  
+
+25 mars              Assistance au  GRAHAM (Patron)  1 équipage sauvé
+
+27 mars              Sauvetage JEAN JACQUES (Sous-patron)  1 équipage sauvé
+
+12 avril               Sauvetage DAGMAR  (Sous-patron)  3 personnes sauvées
+
+20 mai                Sauvetage CERICO (Sous-patron)  1 équipage sauvé 
+
+3 novembre        Assistance à une drague  (Sous-patron)    
+
+12 décembre      Assistance au VANVLANDEREN  (Sous-patron)  
+
+23 avril                Sauvetage du côtre  MARGUERITE (Patron) 5 personnes sauvées 
+
+1er Juillet             Assistance au  MODALINAR (Patron)
+
+1er Juillet             Assistance et recherche de 2 yachts (Patron)
+
+12 janvier             Sauvetage du POST-BOY (Patron) 2 personnes sauvées
+
+21 novembre       Sauvetage du PATRON VANHILLE (Patron) équipage sauvé
+
+3248H0623B1BOSSUNOTRE DAME DEsFLOTs1954-09-04
+
+3248H0622B1BOSSUMARIE ANNE FRANCOISE1954-09-06
+
+3248H0636B1BOSSUMAID OF PRIGH1955-06-02
+
+3248H0844B1BOSSUJOHANNISHUS1955-06-09
+
+3248H0637B1BOSSUINCONNU1955-07-03
+
+3248H0845B1BOSSUINCONNU1955-08-22
+
+3248H0846B1BOSSUINCONNU1955-12-10
+
+3248H0852B1BOSSUTINKERSIUSS1956-05-11
+
+3248H0850B1BOSSUINCONNU1956-10-07
+
+3248H0641B1BOSSUROSE FLEET1956-10-29
+
+3248H0644B1BOSSUPERSONNE EN DIFFICULTE1957-07-03
+
+3248H0645B1BOSSUSURVEILLANCE REGATE1957-07-14
+
+3248H0646B1BOSSUNORDLANDA1957-11-08
+
+3248H0648B1BOSSUINCONNU1959-03-11
+
+3248H0649B1BOSSUParachutiste1959-06-21
+
+3248H0650B1BOSSULUANA1959-07-09
+
+3248H0651B1BOSSUVaurien1959-07-11
+
+3248H0652B1BOSSUFUGUE1959-07-12
+
+3248H0653B1BOSSUBellatrix1959-07-12
+
+3248H0855B1BOSSUBELLATRIX1959-07-12
+
+3248H0654B1BOSSUAvion1959-07-20
+
+3248H0856B1BOSSUCOURONNE1960-09-20
+
+3248H0859B1BOSSUCECILE GERMAINE1961-02-06
+
+3248H0858B1BOSSUINCONNU1961-07-20
+
+3248H0857B1BOSSUDENISE JACQUELINE1961-09-20
+
+3248H0860B1BOSSUINCONNU1961-10-09
+
+3248H0656B1BOSSULAPPAT1962-06-05
+
+3248H0659B1BOSSUBATEAU EN DIFFICULTE1963-08-23
+
+3248H0662B1BOSSUNC1964-05-02
+
+3248H0663B1BOSSUTOUT MUSCLE1964-06-06
+
+3248H0667B1BOSSUANGLIA MONARCH 1964-11-03
+
+3248H0666B1BOSSUNc1965-04-11
+
+3248H0665B1BOSSUNc1965-04-21
+
+3248H0554B1BOSSUINCONNU1965-12-29
+
+3248H0555B1BOSSUINCONNU1966-05-26
+
+3248H0556B1BOSSUINCONNU1966-08-05
+
+3248H0559B1BOSSUINCONNU1967-08-12
+
+3248H0428B1BOSSURECHERCHE ASSISTANCE1968-05-30
+
+3248H0923B1BOSSURAJO1980-09-09
+
+3248H0865B1BOSSUWAY ARVOR1981-05-03
+
+3248H0922B1BOSSUPERLA1982-09-21
+
+3248H0920B1BOSSUANTIPODE 21984-10-08
+
+Crédit photographique :  Michel Gadeyne.
 -----------------------------------------------
 
 
@@ -1176,29 +1460,633 @@ If you’re unsure what these terms mean you should probably contact your host. 
 
 
 -----------------------------------------------
-User cp1170155p08_wp775 already has more than 'max_user_connections' active connections
 
-This either means that the username and password information in your wp-config.php file is incorrect or we can’t contact the database server at localhost. This could mean your host’s database server is down.
 
-If you’re unsure what these terms mean you should probably contact your host. If you still need help you can always visit the WordPress Support Forums.
+
+
+
+
+
+
+
+
+Discours de l’Amiral Duperré de remise de la Croix de la Légion d’honneur à Alfred Brunet notre sous-patron de Gravelines.
+
+Le Ministre de la Marine a jugé que trente-huit ans et demi de services dont trente-sept ans et deux mois à la mer, le sauvetage de 110 personnes dans les canots qu’il commandait, le rendaient digne de porter l’Etoile des braves. Jamais sous cette croix n’a battu cœur plus vaillant.
+
+Alfred-Joseph Brunet, au nom du Président de la République et en vertu des pouvoirs qui nous sont conférés, je vous fais Chevalier de la Légion d’Honneur.
+
+Alfred Joseph né le 1er avril 1853 à Gravelines
+
+Fils de Pierre Constant Brunet marin Oye le 4 décembre 1807 et de 
+
+Marie Thérèse Lemaire  pêcheuse de Gravelines  le 3 février 1811
+
+dont
+
+               -Morte née » Brunet 1877-1877
+
+               -Alfred Joseph Henri Constant  Brunet  1879-1879
+
+               -Jules Henri Joseph  Brunet  1880-1889
+
+               -Emile Henri Joseph  Brunet  1883- 
+
+               -Edouard Henri Joseph  Brunet  1885-1971
+
+               -Marie Thérèse Catherine  Brunet  1888- 
+
+               -Ida Marie Joseph  Brunet  1891-
+
+               -Pierre Constant Joseph  Brunet  1893- 
+
+               -Mort né »  Brunet  1897-1897
+
+Marié le 10 avril 1907 avec Marie-Josèphe Juliette Engrand
+
+Décès  2 mars 1937
+
+14 mois                       Marine Nationale 
+
+37 ans                         Marine de pêche
+
+Membre du tribunal maritime  commercial de Gravelines.
+
+Conseiller municipal de Grand-Fort-Philippe.
+
+Légion d’Honneur le 1er avril 1912  – Dossier 19800035/0243 (Inscrit au prénom Alfrede)
+
+Officier du Mérite Maritime en 1930 – Année de la création de l’ordre – Promu directement Officier
+
+2 prix Henri Durand de Blois de 100 et 120 fr. en 1911 et 1912 pour services rendus
+
+12 octobre 1881        Sauvetage individuel 1 enfant  à Gravelines
+                                         Médaille Argent 2°classe  du Ministre de la Marine
+
+7 mars                        Sauvetage du ARMAND ET ARMANDE – 6 personnes sauvées
+
+4 octobre                    Sauvetage du ALMA – 8 personnes sauvées
+                                                                                          Diplôme d’honneur de la SCSN
+
+14 août                        Sauvetage individuel d’un enfant à Gravelines
+                                                                                           Médaille d’argent de 1° classe Ministre de la Marine
+
+5 aout                          Sauvetage individuel de Eugène Lemaire âgé de 8 ans – Gravelines
+
+3 mai                            Sauvetage du SAINT JOSEPH – 1 personne sauvée
+                                                                                         Médaille d’Argent 2° classe de la SCSN
+                                                                                         Témoignage satisfaction du Ministre de la Marine
+
+29 janvier                     Sauvetage du HILDA – 8 personnes sauvées
+                                                                                         Médaille Argent 2° classe de la SCSN
+
+30 décembre                Sauvetage du PALMA – 5 personnes sauvées
+                               Médaille Argent 1°classe de la SCSN
+                                                 Médaille Or 2° du Ministre de la Marine
+                                         Prix Henri Durand de Blois de 1 000 francs
+
+12 février                      Sortie en mer pour assistance au GUENOWLE
+
+22 janvier                      Sauvetage du  bateau 330 – 1 personne sauvée
+
+23 janvier                      Sauvetage du MARIE IDA  – 8 personnes sauvées
+                                Médaille d’or de 2e classe du ministre de la marine
+                                 Médaille de bronze de la SCSN
+
+
+
+3 janvier                        Sauvetage du ABRANA – 8 personnes sauvées
+
+1er septembre               Sortie en mer pour assistance au RACHEL
+
+2 septembre                  Sauvetage du MADELEINE-FELICITE – 1 équipage sauvé
+
+9 novembre                   Sauvetage du JUPITER – 14 personnes sauvées
+
+11 novembre                  Sauvetage d’un bateau de pêche – 1 personne sauvée
+
+11 novembre                  Sauvetage de la MOUETTE  – 6 personnes sauvées
+                                                                                       Prix Henri Durand de blois de 100 Frs
+
+12 janvier                       Sauvetage du ALEXANDRE  17 personnes sauvées
+Médaille d’or de 1° classe de la SCSN
+                          Médaille de bronze du Ministre de la Marine
+
+1er avril                          Sauvetage du PETIT JULIEN – 6 personnes sauvées
+
+10 décembre                  Sauvetage de la JEUNE MARGUERITE – 8 personnes sauvées
+
+                                           Médaille d’or 2° classe de la SCSN
+
+                              Témoignage de satisfaction du Ministre de la Marine
+
+Nota : selon son dossier Léonore il lui est attribué 13 sauvetages individuels en plus de ceux cités ici
+Obsèques d’Alfred Brunet
+
+Le lundi 1er mars 1937 ont eu lieu en l’église de Grand- Fort-Philippe, les obsèques d’Alfred Brunet, sous-patron honoraire du canot de sauvetage, Chevalier de la Légion d’honneur, Officier du Mérite Maritine, décédé dans sa 84 année. La nombreuse assistance témoignait de l’estime unanime dont était l’objet ce vaillant sauveteur.
+
+Le Président du Comité de Sauvetage de Gravelines, M. Paul Torris, a rendu à sa mémoire un touchant hommage qui résume admirablement les traits d une belle figure de sauveteur :
+
+« Alfred Brunet était de cette race forte qui ne se laisse jamais abattre par les coups du sort. Comme tous les marins de nos côtes, il a « bourlingué » nuit et jour, sans jamais hésiter ni « mollir ».  «Canotier en 1871, sous-patron en 1884, patron par intérim en 1908, chevalier de la Légion d’Honneur en 1911, officier du Mérite Maritime dès la fondation de cet ordre en 1930, Brunet était toujours sur la brèche.
+
+« Même à la retraite, il a encore participé avec son ami François Leprêtre à trois sorties du canot de sauvetage, et a contribué à sauver vingt personnes. 
+
+Le Ministère de la Marine, la Société des Sauveteurs du Nord, la Société Centrale de Paris lui ont décerné toute la gamme des médailles, de bronze, d’argent, et d’or.
+
+Le roi de Norvège lui a fait envoyer un superbe vase en argent, pour le sauvetage en 1897 de l’équipage du brick norvégien HILDA.
+
+66 années dans la Société Centrale;  28 récompenses diverses;  une vie exemplaire
+
+Voilà de quoi enorgueillir légitimement toute la famille d’Alfred Brunet, à laquelle nous exprimons nos plus sympathiques condoléances.
+
+« Quant à toi, mon cher Alfred, dors dans la paix du Seigneur, en face de cette magnifique Station de Sauvetage qui s’élève sur les bords du chenal, et dont tu aurais été si heureux de voir l’inauguration l’été prochain. « Au revoir, cher ami« .
+
+La plus grande fierté d’Alfred Brunet a été de voir son fils, patron du canot de sauvetage de Gravelines, continuer les beaux exemples qu’il lui a laissés.
+
+
+SourcesBNF Gallica Société Centrale de Sauvetage des nNSource généalogie  Travaux Gérard Bollengier 
+
 -----------------------------------------------
-User cp1170155p08_wp775 already has more than 'max_user_connections' active connections
 
-This either means that the username and password information in your wp-config.php file is incorrect or we can’t contact the database server at localhost. This could mean your host’s database server is down.
 
-If you’re unsure what these terms mean you should probably contact your host. If you still need help you can always visit the WordPress Support Forums.
+
+
+
+
+
+
+
+
+Date de naissance :  9 octobre 1902
+
+Fils ainé de  Léon Jean Baptiste BRUNET  31 janvier 1878 – 17 décembre 1959 Gravelines (Nord) Marin, capitaine au long cours, expert, Chevalier de la Légion d’Honneur. Décoré de la Croix de Guerre et chef du poste lance-amarres de Gravelines.
+
+et de 
+
+Marie Antoinette Zonnequin
+
+Pendant la guerre 1914-1918 réfugié à Etretat où il obtient son brevet
+
+Marié le 22 janvier 1927, Dunkerque (Nord), avec Marthe Marie VANHILLE
+
+Marié le 17 septembre 1948, Rosendael (Nord), avec Julie Marie VANHILLE dont
+
+                               Annie  la marraine du canot AMIRAL RONARC’H                                                                               Elle épousera Claude Vandendriessche pilote et sauveteur en  mer
+
+Décédé le 8 mai 1993 à Saint-Amand Montrond (18)
+
+1918
+
+22 novembre 1er embarquement sur le vapeur QUAND-MEME commandé par son père.
+
+Il devient Cap-Hornier en embarquant sur les voiliers de la maison Bordes WULFANG PUGET et le RHONE
+
+1923  
+
+Capitaine de la Marine Marchande 
+
+192?
+Selon certaines sources il embarque sur le POURQUOI-PAS du Commandant Charcot pour rechercher Admussen et  Guilbaud perdus au pôle Nord.
+
+Les recherches sont vaines mais on sauve 6 rescapés d’une mission danoise.  Cet événement n’est pas cohérent avec les dates données. La présence d’Auguste Brunet sur le POURQUOI-PAS est indéniable mais la date reste à vérifier  – De nouvelles données confirmeraient la présence d’Auguste Brunet sur le POURQUOI PAS avant 1925 
+
+1926 
+
+Matelot pilote à la station de Dunkerque
+
+1935 
+
+10 octobre  reçu pilote au port de Dunkerque
+
+1940
+
+Officier des équipages – Commandant de l’ANGELE MARIE – AD71
+
+Voir documents en bas de page
+
+Bataille de Dunkerque.   Il participe à l’évacuation de Dunkerque et transporte vers l’Angleterre 421 hommes. Le AD71 sera saisi par les anglais le 3 juillet 1940 à Southampton. 
+
+Il participe à l’évacuation de Boulogne emportant des hommes du service à terre et des documents secrets. Il appareilla le 21 mai à 9h00 pour Cherbourg. Le 29, venu dans un convoi de chalutiers réquisitionnés de Douvres, AD71  sauve près de 400 hommes du Douaisien qui avait sauté sur une mine. Il les ramena sur Douvres. Le 31 mai 1940, incorporé dans le convoi « Chasse-marée », l’AD71 arrive dans le port de Dunkerque sous un bombardement intense, il reporte sa manœuvre puis finalement il réussit à embarquer 21 tirailleurs algériens depuis la gare maritime, à 23h. Il les débarquera le 1er juin 1940 à Ramsgate. Dans les évaluations des embarquements il est noté comme ayant effectué 2 traversées et sauvé 410 hommes.
+
+
+
+24 juillet  Embarqué sur le MEKNES qui ramène des français des camps anglais. Le MEKNES est torpillé par les allemands. Il passera 9 heures dans l’eau avant d’être sauvé comme 847 de ses camarades. 
+
+1942 
+
+Revenu à Dunkerque, il achète un canot baptisé JEAN BART pour la pêche côtière, mais il est réquisitionné par les forces d’occupation pour le pilotage de Dunkerque
+
+Avril 1949
+
+Il va chercher le canot AMIRAL RONARC’H, dont il sera le patron, à Rouen et le ramène à Dunkerque le 7 avril avec Louis Bossu,  Joseph Bouteille et Claude Noël, officier  de santé .
+
+1957
+
+9 octobre,  départ en retraite du pilotage 
+
+1970
+
+Cesse ses fonctions de patron du canot et passe la barre de l’AMIRAL RONARC’H à Louis Bossu
+
+1959
+
+Chevalier de la Légion d’Honneur – remise en Sorbonne le  24 avril 1960 –  décret du 15 mars 1959
+
+1973 
+
+Officier de lOrdre National du Mérite
+
+1966
+
+Officier du Mérite Maritime
+
+Liste en cours de constitution et  non exhaustive…
+
+1940
+
+29 mai                 Sauvetage du DOUAISIEN – près de 400 personnes sauvées
+
+1949
+
+21 juin                  Sauvetage de la malle PRINCESSE ASTRID – 54 personnes sauvées
+
+15 juillet               Sauvetage du yacht hollandais ORANJE – 3 personnes sauvées
+
+22 juillet               Sauvetage du LITTLE STAR –  Equipage sauvé
+
+3 août                  Assistance au KERSTEL
+
+22  septembre      Assistance au chalutier FREDERIC SAUVAGE
+
+1950
+
+15 février              Assistance au EDMOND RENE 
+
+27 mars               Sauvetage du JEAN JACQUES – Equipage sauvé
+
+12 avril                 Sauvetage du   DAGMAR – 3 personnes sauvées
+
+20 Mai                  Sauvetage du CERICO – Equipage sauvé
+
+3 novembre          Assistance d’une drague 
+
+12 décembre        Sauvetage du chalutier VAN VLANDERENN  –  Equipage sauvé
+
+1955
+
+2 juin                    Sauvetage du MAID OF PRIGH – 2 personnes sauvés
+
+17 juin                  Sauvetage du canot LES DEUX SOEURS – 2 personnes sauvés 
+
+3 juillet                  Sauvetage d’un yacht – Equipage sauvé
+
+1956
+
+15 juillet               Sauvetage d’un  yacht – Equipage sauvé
+
+29 octobre            Sauvetage du ROSE FLEET   Equipage sauvé
+
+1957
+
+4 avril                   Recherche d‘avion 
+
+14 juillet                Assistance et surveillance de régates
+
+8 novembre          Assistance du NORDLANDA  – 
+
+1959
+
+11 mars                Sauvetage Hors Bord
+
+9 Juillet                 Assistance au LUANA 
+
+11 juillet                Sauvetage d’un vaurien – 1 personne sauvée
+
+12 juillet                Sauvetage des yachts FUGUE ET BELLATRIX – 2 équipages sauvés
+
+1960
+
+20 septembre        Assistance au COURONNE
+
+1961 
+
+20 juillet                Recherche de baigneur
+
+20                         Sauvetage du DENISE JACQUELINE – Equipage sauvé 
+
+9 octobre              Sauvetage barque de pêche – 2 marins péri en mer
+
+1962
+
+2 juillet                 Sauvetage yacht LAPPAT – 2 personnes sauvées
+
+1964
+
+6 juin                    Sauvetage du TOUT MUSCLE – 3 personnes sauvées
+
+10 décembre        Sauvetage d’un canot  – 2 personnes sauvées 
+
+1965 
+
+15 mai                  Assistance sur chute d’avion
+
+11avril                  Assistance sur chute d’avion
+
+
+
+1966
+
+21 mai                 Assistance à zodiac
+
+5 août                  Assistance voilier – 
+
+10 décembre       Sauvetage d’un canot –  2 personnes sauvées
+
+1967 
+
+12 août                Fausse alerte fusées détresse 
+
+
+
+1968
+
+30 juin                  11 heures de recherches
+
+Croix de Guerre avec palmes, au motif suivant : a montré la plus grande valeur comme commandant de son bâtiment pendant les opérations devant l’ennemi. Le 10 mai 1940, a mis hors de combat un avion ennemi. Le 28 mai 1940, a sauvé 375 militaires et civils du jour, a mis hors de combat 2 bombardiers ennemis qui attaquaient son navire pendant le débarquement des munitions qu’il avait mission de conduire dans le port de Dunkerque. Le 2 juin, a participé, sous un violent bombardement à l’évacuation de ce port.
+
+Chez les Brunet le sauvetage est  une histoire de famille
+
+La saga commence avec Alfred Brunet patron du canot de Gravelines comme son fils Edouard.   Auguste, cousin d‘Edouard sera le patron du canot de sauvetage de Dunkerque et son neveu Joêl sera patron de Gravelines. Le  beau-fils d’Auguste  Claude Vandendriessche sera patron de Dunkerque. Ajoutons quelques canotiers dans la famille… 
+
+Le père d‘Auguste  qui est également Chevalier de la Légion d’Honneur –  à titre militaire (1914 – 1918) sera responsable du poste lance-amarres de Fort Philippe.
+
+Sources
+
+Annales de la SCSN 
+
+Du sauvetage en mer à Dunkerque Méchain Raffoux SNSM
+
+Site Les Oubliés du Meknès http://www.lesoubliesdumeknes.fr/
+
+Société Dunkerquoise d’Histoire et d’Archéologie – Olivier Vermesch
+
+Archives famille Brunet
 -----------------------------------------------
-User cp1170155p08_wp775 already has more than 'max_user_connections' active connections
 
-This either means that the username and password information in your wp-config.php file is incorrect or we can’t contact the database server at localhost. This could mean your host’s database server is down.
 
-If you’re unsure what these terms mean you should probably contact your host. If you still need help you can always visit the WordPress Support Forums.
+
+
+Date de naissance : 25 ,août 1885 à Grand-Fort-Philippe
+
+Fils de Alfred Brunet et Marie-Josèphe Juliette
+
+Domicile 37 rue du Maréchal Foch Grand-Fort-Philippe
+
+Décès 18 avril 1971
+
+41 ans et 9 mois
+
+1895 à 1914            Marin pêcheur 
+
+1915 à 1919            Service militaire    Div  marocaine puis Quartier maître de manoeuvre à Salonique  
+
+octobre 1909           Canotier du canot de sauvetage
+
+1921                        Sous patron du canot de sauvetage
+
+17 février 1931        Patron du canot de sauvetage
+
+2 mandats de conseiller municipal avant 1940
+
+Membre du bureau de bienfaisance 1937 
+
+La Légion d’Honneur va être solennellement remise à un civil, au titre de la marine militaire. Ce civil, c’est Edouard Brunet, patron du canot de sauvetage de Gravelines. La croix lui sera remise, le mois prochain, dans le grand amphithéâtre de la Sorbonne par l’amiral Lacaze, lors de la distribution annuelle de récompenses de la Société centrale de sauvetage des naufragés. J’ai voulu voir Edouard Brunet dans le cadre de sa vie. Je l’ai trouvé au travail, sur le pont d’une grosse barque de pêche. Le jour finissait. — Venez chez moi, me dit-il, ça sera mieux. Le logis était proche. Nous primes place dans la cuisine nette et chaude. Mme Brunet et sa fille, attentives à notre conversation, s’empressèrent d’aller quérir, dans la pièce voisine, papiers et documents qu’on étala sur la table familiale. Au mur, la photographie d’Edouard Brunet père, le buste constellé de décorations, présidait à notre entretien.
+
+Chez nos marins, l’occasion aidant, l’héroïsme est de famille. Edouard Brunet succéda à son père comme patron du canot de sauvetage de Gravelines. Il avait déjà grandement mérité ce poste d’honneur. C’était en février 1931, il avait alors 45 ans, et depuis plus de vingt ans il faisait partie de l’équipage du canot, il avait sauvé 42 hommes. Depuis, il en a sauvé 48 autres.
+
+Il avait 11 ans quand il accomplit son premier sauvetage dans le port. Voilà l’homme ! Son dernier sauvetage Il est âgé maintenant de 54 ans, mais il n’a rien perdu de son énergie ni de sa vigueur. Vous allez vous-même en juger. — La Légion d’honneur, me dit-il, c’est pour tous mes sauvetages sans doute qu’on me l’a donnée et pour le dernier, particulièrement, qui fut difficile.
+
+1896                           Sauvetage d’un enfant à Grand-Fort-Philippe  octobre
+
+1903                           Sauvetage d’un enfant à Grand-Fort-Philippe  août
+
+1905
+
+12/02/                         Secours à la goélette GUENOWLE
+
+1908
+
+janvier                         Sauvetage du trois-mâts goélette ABRANA  – 8 personnes sauvées
+
+novembre                    Sauvetage d’un homme
+
+1911 
+
+Janvier                        Sauvetage du ALEXANDRE et PETIT JULIEN – 17 personnes sauvées
+
+1918
+
+Octobre                       Sauvetage 2 aviateurs anglais (Salonique)
+
+1919
+
+12 Avril                        Sauvetage du BUSY BEE – 3 personnes sauvées
+
+1928    
+
+16 janvier                    Sauvetage du PETIT-LOUIS –  7 personnes sauvées
+
+1931   
+
+13 janvier                    Sauvetage du MADELON – 12 personnes sauvées
+
+1933
+
+13 décembre               Sauvetage Bateau feu  Dyck  – 3 personnes sauvées
+
+1935
+
+7 avril                          Sauvetage pêcheur – 12 personnes sauvées
+
+23 novembre                Sauvetage Bateau de pêche 714 – Equipage sauvé
+
+1937
+
+28 août                         Sauvetage 1 enfant
+
+1940
+
+17 janvier                     Sauvetage du NOTRE DAME – 24 personnes sauvées
+
+22 mai                          Sauvetage Vapeur français – Non trouvé
+
+4 juin                            Sauvetage d’une baleinière  – 6 militaires sauvés
+
+26 septembre               Sauvetage 1 militaire allemand – 1 personne sauvée
+
+1er novembre               Sauvetage Bateau Bouée N°22a – 2 équipages sauvés
+
+15 Novembre                Recherches  aviateurs allemands
+
+1945
+
+10 août                           Sauvetage du MINCA32 – 6 personnes sauvées
+
+1947
+
+18 décembre                   Sauvetage  de l’ALCYON – 8 personnes sauvées1950
+
+13 décembre                   Sauvetage du GEORGETTE – 2  sorties – 3 personnes sauvées
+
+1955
+
+17 juin 1955                   Sauvetage du canot LES DEUX SOEURS – 2 personnes sauvées
+
+Sources
+
+Annales de la Société Centrale de sauvetage
+
+Presse locale et nationale
+
+1943                       Chevalier de la Légion d’Honneur Décret 18 septembre 1943 – à titre militaire
+
+1955                       Officier de la Légion d honneur  – Décret 4 mai 1955
+
+1962                       Commandeur du Mérite Maritime
+
+1950                       Médaille des marins du commerce et de la pêche 
+
+12 mars 1932         Médaille d’or – SCSN 
+
+15 mars 1934         Médaille d’or – SCSN 
+
+30 août 1940          Médaille d’or – SCSN 
+
+17 juin 1941            Médaille d’or – SCSN 
+
+26 mai 1946            Médaille d’or – SCSN 
+
+15 octobre 1941      Vermeil – SCSN 
+
+ 2 juillet 1936           Médaille d’argent  2° classe  – SCSN 
+
+17 mai 1938             Médaille d’argent 1° classe  – SCSN 
+
+8 mai 1938               Médaille de bronze – SCSN 
+
+1er juin 1942            Médaille de bronze – SCSN 
+
+14 avril 1911             Médaille de bronze 
+
+1926                         Médaille de bronze des sauveteurs du Nord
+
+juillet 1935                Plaquette fondation Carnegie 
+
+3 janvier 1938            Plaquette fondation Carnegie   
+
+janvier 1940               Plaquette fondation Carnegie   
+
+Mai 1937                   Prix Henri Durand de Blois 
+
+mai 1941                   Prix Henri Durand de Blois 
+
+20 juillet 1942            Prix Henri Durand de Blois 
+
+16 septembre 1908    Témoignage de satisfaction  – SCSN 
+
+1931                           Mention honorable – SCSN 
+
+1934                           Mention honorable – SCSN 
+
+21 décembre 1931     Lettre de félicitations du directeur de l’Inscription Maritime du Havre
+
+26 janvier 1911           Diplôme d’honneur – SCSN
+
+
+
+Brunet et le sauvetage une histoire de famille
+
+La saga commence avec Alfred Brunet patron du canot de Gravelines comme son fils Edouard – Son neveu Auguste a été patron du canot de sauvetage de Dunkerque tout comme son neveu Joêl et bien d’autres comme canotiers dont les filiations sont encore à établir.
+
+
+
+
+
+
 -----------------------------------------------
-User cp1170155p08_wp775 already has more than 'max_user_connections' active connections
 
-This either means that the username and password information in your wp-config.php file is incorrect or we can’t contact the database server at localhost. This could mean your host’s database server is down.
 
-If you’re unsure what these terms mean you should probably contact your host. If you still need help you can always visit the WordPress Support Forums.
+
+
+
+
+Né le 16 octobre 1931 à Paimpol
+
+Fils unique de 
+
+Roland  BRUNET    Marin, capitaine au long cours,  engagé dans les Forces Navales Françaises Libres
+
+et de 
+
+Louise Leguevel qui décédera 7 ans après la naissance de son fils
+
+Marié le 14 septembre 1963  avec Marie-Thérèse Brigitte Agneray dont
+
+                                 Régis Joël Marie 
+
+                                 Éric Gérard Roland
+
+                                 Gérard André Régis 
+
+                                 Loïc Régis Éric 
+
+                                 Claire Marie Anne
+
+Décédé le 20 octobre 1990 à Lille
+
+1948 – 1851 Novice puis matelot à la SAGA SBVN
+
+1951 – 1953 Service national dans la marine en qualité de second-maître sur un patrouilleur cotier en Algérie
+
+1956  Brevet de Lieutenant au cabotage
+
+1957 – 1960 Embarquement en qualité de lieutenant à la Sopciété Maritime des pétroles BP Ligne Dunkerque Golfe Persique
+
+1960 à 1962 Embarquement en qualité de lieutenant à la SAGA SBVN Ligne côte occidentale d’Afrique
+
+1962 Capitaine côtier
+
+1962 à 1972 Ligne Calais Douvres Lieutenant 5200  traversées du détroit
+
+1962 Sous-patron et patron du canot  de sauvetage  de Calais  MARECHAL FOCH
+
+1962 à 1986 Officier observateur de la Météorolgie Nationale
+
+Patron de canot de Gravelines GERMAINE COTY puis ROGER MAHE et enfin la PHILIPPOISE(1989)
+
+1972 Pilotage de dunkerque  Commandant des corvettes
+
+1986 Retraité le 16 octobre à 38 années de navigation
+
+1986 -1987 officier de port auxiliaire Calais
+
+Canotier du canot de Calais
+
+Patron du canot de Gravelines
+
+Conseiller municipal de Grand-Fort-Philippe
+
+1985 Chevalier du  Mérite Maritime
+
+1967  Diplôme d’honneur SCSN  5 sorties dans l’année
+
+1989  Lettre de remerciements de la SNSM pour son implication dans la manifestation les voiles de la liberté à Rouen
+
+Liste en cours de constitution et  non exhaustive …
+
+
+
+
 -----------------------------------------------
 
 
@@ -1358,28 +2246,4 @@ Discours de remise de la légion d’honneur au titre de ChevalierM. Charet est 
 
 SourcesSociété Centrale de Sauvetage des Naufragés 1866 – 1939 Base Léonore Dossier de la Légion d’HonneurBNF Gallica Portrait du monde illustré 1887Presse diverse  ‘L Autorité » …Portrait  réalisé par sa nièce Mathilde – Marguerite HAUTRIVE 1909
 
------------------------------------------------
-User cp1170155p08_wp775 already has more than 'max_user_connections' active connections
-
-This either means that the username and password information in your wp-config.php file is incorrect or we can’t contact the database server at localhost. This could mean your host’s database server is down.
-
-If you’re unsure what these terms mean you should probably contact your host. If you still need help you can always visit the WordPress Support Forums.
------------------------------------------------
-User cp1170155p08_wp775 already has more than 'max_user_connections' active connections
-
-This either means that the username and password information in your wp-config.php file is incorrect or we can’t contact the database server at localhost. This could mean your host’s database server is down.
-
-If you’re unsure what these terms mean you should probably contact your host. If you still need help you can always visit the WordPress Support Forums.
------------------------------------------------
-User cp1170155p08_wp775 already has more than 'max_user_connections' active connections
-
-This either means that the username and password information in your wp-config.php file is incorrect or we can’t contact the database server at localhost. This could mean your host’s database server is down.
-
-If you’re unsure what these terms mean you should probably contact your host. If you still need help you can always visit the WordPress Support Forums.
------------------------------------------------
-User cp1170155p08_wp775 already has more than 'max_user_connections' active connections
-
-This either means that the username and password information in your wp-config.php file is incorrect or we can’t contact the database server at localhost. This could mean your host’s database server is down.
-
-If you’re unsure what these terms mean you should probably contact your host. If you still need help you can always visit the WordPress Support Forums.
 -----------------------------------------------

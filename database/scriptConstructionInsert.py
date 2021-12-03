@@ -38,14 +38,17 @@ def etudPage(url,affichage, fic1,fic2):
     href = False
     sautLigne=False
     baliseImg = True
+    i=0
     #parcours de l'ensemble du tableau de string
     for ligne in tableau:
          # a_append / x_create file / w_write in file
          f = open(fic1, "a")
          lien = open(fic2, "w")
+         if i >0:
+             etudDirect(fic3,fic4)
          #pour chaque ligne de l'HTML
          for element in range(len(ligne)):
-
+             i+=1
              #retirer les balises
              if ligne[element] == '<':
                  ouvertFermer=False
@@ -78,7 +81,7 @@ def etudPage(url,affichage, fic1,fic2):
                  sautLigne = True
              elif sautLigne:
                  lien.write("\n")
-                 etudDirect(fic3,fic4)
+
                  sautLigne = False
     lien.write("#\n")
     f.write('-----------------------------------------------')
