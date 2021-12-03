@@ -42,9 +42,23 @@
             <button id="bouton" type=button><i class="fas fa-search"></i></button>
           </div>
           <div id="selection">
-            <label><input type="radio" name="JTP" id="sauveteur" value="sauveteur">Sauveteur</label>
-            <label><input type="radio" name="JTP" id="bateau" value="bateau">Bateau</label>
-            <label><input type="radio" name="JTP" id="sauvetage" value="sauvetage">Sauvetage</label>
+            <label class="rad-label">
+              <input type="radio" class="rad-input" name="rad" value="sauveteur" id="sauveteur">
+              <div class="rad-design"></div>
+              <div class="rad-text">Sauveteur</div>
+            </label>
+
+            <label class="rad-label">
+              <input type="radio" class="rad-input" name="rad" value="bateau" id="bateau">
+              <div class="rad-design"></div>
+              <div class="rad-text">Bateau</div>
+            </label>
+
+            <label class="rad-label">
+              <input type="radio" class="rad-input" name="rad" value="sauvetage" id="sauvetage">
+              <div class="rad-design"></div>
+              <div class="rad-text">Sauvetage</div>
+            </label>
           </div>
         </form>
         <span class="decoration"></span>
