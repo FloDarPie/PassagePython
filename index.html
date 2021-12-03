@@ -12,7 +12,9 @@
     <link rel="stylesheet" href="css/master.css">
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/ui.css">
+    <link rel="stylesheet" href="css/handicap.css">
     <script src="js/search.js" defer></script>
+    <script src="js/handicap.js" defer></script>
 </head>
   <body>
     <header>
@@ -21,7 +23,7 @@
           <ul>
             <li><a href="#">page1</a></li>
             <li><a href="#">page2</a></li>
-            <li><a href="#">handicap</a></li> 
+            <li><a href="#" onclick="openForm()">handicap</a></li> 
           </ul>
         </nav>
     </header>
@@ -43,7 +45,17 @@
       <section>
         <h1>Les Sauveteurs du Dunkerquois</h1>
       </section>
-
     </main>
+    <div class="loginPopup">
+      <div class="formPopup" id="popupForm">
+        <form action="/action_page.php" class="formContainer" name="handi">
+            <input type="checkbox" name="handicap" value="park">Parkinson</input>
+            <input type="checkbox" name="handicap" value="dalt">Daltonien</input>
+            <input type="checkbox" name="handicap" value="dys">Dyslexique</input>
+            <button type="submit" class="btn" id="submit">Valider</button>
+            <button type="button" class="btn cancel" onclick="closeForm()">Fermer</button>
+        </form>
+      </div>
+    </div>
   </body>
 </html>
