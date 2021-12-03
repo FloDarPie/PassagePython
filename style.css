@@ -1,0 +1,78 @@
+/*#compteur-ges {
+    width: 100px;
+    height: 100px;
+    background-color: hsl(1,100%,50%);
+}*/
+
+#bulle {
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    display: inline-flex;
+    bottom: 58px;
+    right: 120px;
+}
+
+#compteur-beau {
+    padding: 0;
+    width: 100%;
+    display: inline-flex;
+}
+
+#compteur-beau li {
+    background: url("cpt_img.png");
+    width: 53px;
+    height: 103px;
+    list-style-type: none;
+}
+
+#aiguille{
+    background: url("aiguille.png");
+    background-size: contain;
+    width: 16px;
+    height: 66px;
+    transform-origin: 50% 90%;
+}
+
+#cadran {
+    background: url(jauge.png);
+    background-size: contain;
+    width: 61px;
+    height: 120px;
+}
+
+#co2 {
+    padding-left: 20px;
+}
+
+#bulleVerte{
+    position: fixed;
+    height: 175px;
+    width: 300px;
+    bottom: 10px;
+    right: 10px;
+    background-image: url(vert.png);
+    background-size: 100% auto;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    display: inline-flex;
+    bottom: 10px;
+    right: 10px;
+}
+
+#bulleOrange{
+    position: fixed;
+    height: 115px;
+    width: 200px;
+    bottom: 200px;
+    right: 10px;
+    background-image: url(orangeV2.png);
+    background-size: 100% auto;
+}
+
+#message{
+    font-family:Cambria;
+    font-size:12px;
+    color: black;
+}
