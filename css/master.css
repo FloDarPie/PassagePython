@@ -39,8 +39,16 @@ h1 {
   height: 4px;
   border-radius: 10px;
 }
+textarea {
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  background: var(--dark);
+}
 
 button {
+  background: var(--dark);
+  border: 3px solid var(--white);
   cursor: pointer;
 }
 
