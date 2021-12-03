@@ -41,10 +41,10 @@
             <input type="search" id="query" name="q" placeholder="Recherche...">
             <button id="bouton" type=button><i class="fas fa-search"></i></button>
           </div>
-          <div id="select">
-            <label for="sauveteur"><input type="radio" name="JTP" id="sauveteur" value="sauveteur">Sauveteur</label><br/>
-            <label for="bateau"><input type="radio" name="JTP" id="bateau" value="bateau">Bateau</label><br/>
-            <label for="sauvetage"><input type="radio" name="JTP" id="sauvetage" value="sauvetage">Sauvetage<br></label><br/>
+          <div id="selection">
+            <label><input type="radio" name="JTP" id="sauveteur" value="sauveteur">Sauveteur</label>
+            <label><input type="radio" name="JTP" id="bateau" value="bateau">Bateau</label>
+            <label><input type="radio" name="JTP" id="sauvetage" value="sauvetage">Sauvetage</label>
           </div>
         </form>
         <span class="decoration"></span>

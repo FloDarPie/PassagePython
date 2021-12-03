@@ -50,7 +50,13 @@
 #entry button:hover {
   background-image: linear-gradient(var(--dark), var(--dark)), var(--colorfull);
 }
+#selection {
+  display: flex;
+  flex-direction: column;
+}
 
-input {
 
+input[type="radio"]  {
+}
+input[type="radio"] + label {
 }
