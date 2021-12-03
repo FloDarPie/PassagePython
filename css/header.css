@@ -1,11 +1,13 @@
 /*barre en haut*/
 header {
-  display: flex;
-  justify-content: space-between;
-  background: var(--dark);
-  height: 50px;
+    display: flex;
+    justify-content: space-between;
+    background: var(--dark);
+    height: 50px;
 }
 header h1 {
+  position:relative;
+  left:0px;
   height: 100%;
   margin: 0; padding: 0 10px;
   font: 2em "Fira Sans", sans-serif;

@@ -1,0 +1,17 @@
+header{
+    height:180px;
+    font-size: 2em !important;
+}
+
+    header * {
+        line-height: 180px !important;
+    }
+
+header li {
+    width: 200px;
+}
+
+button, input {
+    width: 200px;
+    height: 80px;
+}
