@@ -32,7 +32,7 @@ header ul {
 header li {
   border-left: 2px solid transparent;
   border-image: var(--colorfull) 10;
-  padding: 5px;
+  padding: 0 5px;
   transition: 0.2s;
 }
 header li:hover {
