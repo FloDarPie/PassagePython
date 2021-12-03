@@ -72,12 +72,16 @@
     </main>
     <div class="loginPopup">
       <div class="formPopup" id="popupForm">
-        <form action="/action_page.php" class="formContainer" name="handi">
-            <input type="checkbox" name="handicap" value="park">Parkinson</input>
-            <input type="checkbox" name="handicap" value="dalt">Daltonien</input>
-            <input type="checkbox" name="handicap" value="dys">Dyslexique</input>
-            <button type="submit" class="btn" id="submit">Valider</button>
-            <button type="button" class="btn cancel" onclick="closeForm()">Fermer</button>
+        <form action="index.php" class="formContainer" name="handi">
+            <div id="type-handi">
+              <label><input type="checkbox" name="park" value="true">Parkinson</label>
+              <label><input type="checkbox" name="dalt" value="true">Daltonien</label>
+              <label><input type="checkbox" name="dys" value="true">Dyslexique</label>
+            </div>
+            <div id="reponse">
+              <button type="submit" class="btn" id="submit">Valider</button>
+              <button type="button" class="btn cancel" onclick="closeForm()">Fermer</button>
+            </div>
         </form>
       </div>
     </div>

@@ -12,26 +12,10 @@
   left: 45%;
   top: 5%;
   transform: translate(-50%, 5%);
-  border: 3px solid #999999;
+  background-color: var(--dark);
+  border: 3px solid #FFF;
+  border-radius: 5px;
   z-index: 9;
-}
-.formContainer {
-  max-width: 300px;
-  padding: 20px;
-  background-color: #fff;
-}
-.formContainer input[type=text],
-.formContainer input[type=password] {
-  width: 100%;
-  padding: 15px;
-  margin: 5px 0 20px 0;
-  border: none;
-  background: #eee;
-}
-.formContainer input[type=text]:focus,
-.formContainer input[type=password]:focus {
-  background-color: #ddd;
-  outline: none;
 }
 .formContainer .btn {
   padding: 12px 20px;
@@ -40,7 +24,7 @@
   color: #fff;
   cursor: pointer;
   width: 100%;
-  margin-bottom: 15px;
+  margin: 5px 0 0 0;
   opacity: 0.8;
 }
 .formContainer .cancel {
@@ -49,4 +33,29 @@
 .formContainer .btn:hover,
 .openButton:hover {
   opacity: 1;
+}
+#type-handi {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+
+#popupForm {
+  width: 300px;
+}
+
+#popupForm label, #popupForm button {
+  color: var(--white);
+  font-weight: bold;
+  font-size: 2em;
+}
+
+#popupForm label {
+  margin-right: auto;
+  padding: 15px;
+}
+
+#reponse {
+  display: flex;
+  width: 100%;
 }
