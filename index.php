@@ -37,8 +37,15 @@
     <main>
       <banner>
         <form id="form">
-          <input type="search" id="query" name="q" placeholder="Recherche...">
-          <button id="bouton" type=button><i class="fas fa-search"></i></button>
+          <div id="entry">
+            <input type="search" id="query" name="q" placeholder="Recherche...">
+            <button id="bouton" type=button><i class="fas fa-search"></i></button>
+          </div>
+          <div id="select">
+            <input type="radio" name="JTP" id="personne" value="personne">Personne<br>
+            <input type="radio" name="JTP" id="bateau" value="bateau">Bateau<br>
+            <input type="radio" name="JTP" id="sauvetage" value="sauvetage">Sauvetage<br>
+          </div>
         </form>
         <span class="decoration"></span>
       </banner>
@@ -46,9 +53,7 @@
         <h1>Les Sauveteurs du Dunkerquois</h1>
         <?php echo makeList($db, "SELECT * FROM Sauveteur", array('prenom', 'nom')); ?>
       </section>
-      <input type="radio" name="JTP" id="personne" value="personne">Personne<br>   
-      <input type="radio" name="JTP" id="bateau" value="bateau">Bateau<br>   
-      <input type="radio" name="JTP" id="sauvetage" value="sauvetage">Sauvetage<br>  
+
     </main>
   </body>
 </html>

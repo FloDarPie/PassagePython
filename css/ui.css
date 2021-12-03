@@ -4,7 +4,10 @@
   width: 50%;
   align-items: center;
 }
-
+#entry {  
+  display: flex;
+  align-items: center;
+}
 #query {
   background: var(--dark);
   height: 2em;
@@ -29,7 +32,7 @@
 #query:focus {
   outline: none;
 }
-#form button {
+#entry button {
   height: 2em; width: 2.5em;
   line-height: 1.4em;
   font-size: 1.4em;
@@ -44,7 +47,7 @@
   transition: 0.2s;
 }
 
-#form button:hover {
+#entry button:hover {
   background-image: linear-gradient(var(--dark), var(--dark)),
                     var(--colorfull);
 }
