@@ -46,7 +46,7 @@ textarea {
   background: var(--dark);
 }
 
-button {
+main button {
   background: var(--dark);
   border: 3px solid var(--white);
   cursor: pointer;
