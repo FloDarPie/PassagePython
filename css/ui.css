@@ -4,7 +4,7 @@
   width: 50%;
   align-items: center;
 }
-#entry {  
+#entry {
   display: flex;
   align-items: center;
 }
@@ -48,6 +48,15 @@
 }
 
 #entry button:hover {
-  background-image: linear-gradient(var(--dark), var(--dark)),
-                    var(--colorfull);
+  background-image: linear-gradient(var(--dark), var(--dark)), var(--colorfull);
+}
+#selection {
+  display: flex;
+  flex-direction: column;
+}
+
+
+input[type="radio"]  {
+}
+input[type="radio"] + label {
 }

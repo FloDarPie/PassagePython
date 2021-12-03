@@ -9,7 +9,7 @@ function recherche_sauveteur($database, $value){
   . "WHERE `Sauveteur`.`nom` LIKE '%$value%'"
   . "OR `Sauveteur`.`prenom` LIKE '%$value%'"
   . 'LIMIT 50',
-  array('id', 'nom', 'prenom')
+  array('nom', 'prenom'), 'id', "/php/pages/view/sauveteur.php"
   );  // on limite le nombre de resultats a 50
 
   return $sauveteurs;
