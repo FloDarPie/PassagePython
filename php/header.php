@@ -12,7 +12,7 @@
 
 <div class="loginPopup">
   <div class="formPopup" id="popupForm">
-    <form action="index.php" class="formContainer" name="handi">
+    <form action="" class="formContainer" name="handi">
         <div id="type-handi">
           <label><input type="checkbox" name="park" value="true">Parkinson</label>
           <label><input type="checkbox" name="dalt" value="true">Daltonien</label>

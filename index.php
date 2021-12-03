@@ -3,13 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>Les Sauveteurs du Dunkerquois</title>
-    <?php require "php/head.php";
-      if(isset($_GET['dys']))
-        echo '<link rel="stylesheet" href="css/dys.css">';
-      if(isset($_GET['park']))
-        echo '<link rel="stylesheet" href="css/park.css">';
-      if(isset($_GET['dalt']))
-        echo '<link rel="stylesheet" href="css/dalt.css">';
+    <?php
+      require "php/head.php";    
       require "php/connect.php";
     ?>
 
