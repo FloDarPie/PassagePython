@@ -1,22 +1,44 @@
-var compteur = 0;
-var nb
-(123456789).toString(10).split("")
+var min = 0;
+var seconde =0;
 
+var dechet; // temps qui passe -> doit devenir nb dechet par seconde
+var digit_pos = 0
+var aiguille_deg = 0
+var attendu = 0
+var x = 1/attendu
+
+var compteur=0;
 
 var dechet; // temps qui passe -> doit devenir nb dechet par seconde
 
-var MonTableau = [];
+ 
 
 function incrementer() {
-    var tableau =  (compteur).toString(10).split("")
-	compteur++;
+    
+    var taux = 6.8*compteur/600;
+
+    if(taux<136){
+        document.getElementById("aiguille").style.transform = 'rotate('+taux*180/136+'deg)'
+    }
+
+    if (seconde>=60){
+        min+=1;
+        seconde=0
+    }
+    else {
+        seconde+=0.1
+    }
+
+    compteur+=1
+
     var compt=document.getElementById("compteur")
-    var vmax=300
-	document.getElementById("compteur").innerHTML = compteur; // équivalent print ? fait référence à heure de html
+ 
+	document.getElementById("co2").innerHTML =((taux/10).toFixed(2)+ "   g de co2" ); // équivalent print ? fait référence à heure de html
+    document.getElementById("cpt").innerHTML =(min + "  min "+ seconde.toFixed(0)+ " secondes");
+    document.getElementById("compteur").setAttribute("style", "color:black");
+    document.getElementById("min").innerHTML =(((min*60+seconde)*19/3600).toFixed(2));
 
-    var ener
-
-    if (compteur<50){
+   /* if (compteur<50){
         document.getElementById("compteur").setAttribute("style", "color:green");
     }
     else{
@@ -26,13 +48,14 @@ function incrementer() {
         else{
             document.getElementById("compteur").setAttribute("style", "color:red");
     
-        }
-    
+        }*/
+   
        
        
     
          
 }
+/*
 console.log(tableau)
 var affichage = document.getElementById("affichagechiffre");
 affichage.innerHTML = ""
@@ -45,7 +68,7 @@ tableau.forEach( (index, item) => {
     affichage.appendChild(chiffre)
 
 })
-    
+ */   
 
     
   /*  if (compteur >10 ){
@@ -56,16 +79,20 @@ tableau.forEach( (index, item) => {
         document.getElementById("compteur").setAttribute("style", "color:orange");
     }*/
      
-}
+//}
 
 function cpt() {
 	document.getElementById("compteur").innerHTML = "Test";
 }
 
 function init() {
-	dechet = setInterval("incrementer()",1000);
+	dechet = setInterval("incrementer()",100);
 }
 
 
+function move_aiguille() {
+	aiguille_deg = attendu*180/10 - (1/x)*180/10
+	document.getElementById("aiguille").style.transform = 'rotate('+aiguille_deg+'deg)'
+}
 
 

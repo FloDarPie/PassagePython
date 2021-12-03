@@ -5,18 +5,39 @@
     <title>Minuterie en JS</title>
     <link href="style.css" rel="stylesheet">
     <script type="text/javascript" src="compteur.js"></script>
+	<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
 </head>
 
 <body onload="init();">
     <h2>Un compteur en JS</h2>
     <div id="compteur-ges">
         <p id="compteur">0</p>
-		
+		<p id="cpt">0</p>
 
     </div>
-
+	<ul id="compteur-beau">
+		<li id=digit3></li>
+		<li id=digit2></li>
+		<li id=digit1></li>
+	</ul>
 	<div id="affichagechiffre">
-		
+
+	</div>
+	<div id="bulleVerte">
+		<div hidden id="bulle">
+			<div id="cadran">
+				<div id="aiguille"></div>
+			</div>
+			<div id="cpt-ges-text">
+				<p id="co2"></p>
+			</div>
+		</div>
+	</div>
+	<div id="bulleOrange" style="text-align:left">
+		<p id="message" style="color: white; font-size: 12pt; padding-left: 10px;" >
+			Tu as laiss&eacute ta chambre allum&eacutee<br>
+			pendant <span id="min"></span> min. 
+		</p>
 	</div>
 
 	
